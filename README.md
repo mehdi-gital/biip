@@ -13,11 +13,13 @@
 
 - create a requirements.txt file.
 - create a learning class as subclass of nn or torchdiffeq or whatever makes sense.
+- let's work with diffop (?) and intop (?)
 - in an object oriented way, what's the relationship between odefunc and odeblock?
-- what are some of the options? what are the expected data formats and tensor sizes? What datat type is the graph?
+- what are some of the options? what are the expected data formats and tensor sizes? What data type is the graph?
+- let's use a data object from torchgeometric.
 - using the learning object, get hyperparamms and methods, train, pickle the params and write the logs in json. 
 - leave a template for applying hyperparam optimization. 
-- train model by loading data and write model hyperparams as a pickle. 
+- train model by loading data and write model params as a pickle. 
 
 ## model inference (+ CICD)
 
