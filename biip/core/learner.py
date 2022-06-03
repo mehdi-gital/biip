@@ -1,0 +1,1 @@
+# call model and put it through a loop, write artifacts and pickle
