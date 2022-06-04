@@ -1,0 +1,18 @@
+{
+  "neuralBIIP": {
+    "activation_fn": "softplus",
+    "use_adjoint": false,
+    "integration_method": "dopri5",
+    "input_dim": 1,
+    "hidden_dim": 128
+    },
+  "training": {
+    "epochs": 1000,
+    "learning_rate":1e-3,
+    "weight_decay": 0.0,
+    "batch_size": 16,
+    "batch_time": 50,
+    "device": "cpu"
+  }
+}
+
