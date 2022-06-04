@@ -4,7 +4,9 @@ import time
 import torch
 from biip.core.model import NeuralBIIP
 from biip.utils.data import get_batch
-from biip.utils.validation import rmse_loss
+from biip.utils.validation import predict, rmse_loss
+from biip.utils.visualization import plot_true_pred_cylinder, plot_loss_curve
+from biip.utils.helpers import get_device
 
 
 class Learner:
@@ -17,16 +19,12 @@ class Learner:
             learning_rate,
             weight_decay,
             device,
-            artifacts_path
+            artifacts_path,
+            logger
     ):
         self.artifacts_path = artifacts_path
-        if device == 'cpu':
-            self.device = torch.device('cpu')
-        elif device == 'cuda' and torch.cuda.is_available():
-            self.device = torch.device("cuda")
-        else:
-            raise ValueError('[!] Device is set to cuda in configs.json but cuda is not available. '
-                             'Please set device to cpu.')
+        self.device = get_device(device)
+        self.logger = logger
 
         # initialize model
         self.model = NeuralBIIP(
@@ -34,15 +32,17 @@ class Learner:
             hidden_dim=hidden_dim,
             use_adjoint=use_adjoint,
             activation_fn=activation_fn,
-        )
+        ).to(self.device)
         self.optimizer = torch.optim.Adam(self.model.parameters(), lr=learning_rate, weight_decay=weight_decay)
         self.loss = torch.nn.MSELoss()
 
+        # training state
+        self.train_losses = []
+        self.validation_losses = []
+        self.best_validation_rmse = float('inf')
+
     def fit(self, dataset, epochs, batch_size, batch_time):
         # training loop
-        losses = []
-        validation_losses = []
-        best_validation_rmse = float('inf')
         for epoch in range(0, epochs):  # model_hyperparameters['epoch']):
             start_time = time.time()
             # get batch data
@@ -62,7 +62,7 @@ class Learner:
             )
             # loss
             batch_loss = self.loss(f_hat, batch_f.to(self.device))
-            losses.append(batch_loss.item())
+            self.train_losses.append(batch_loss.item())
 
             # backpropagation
             self.optimizer.zero_grad()
@@ -70,24 +70,54 @@ class Learner:
             self.optimizer.step()
 
             # validation
-            with torch.no_grad():
-                self.model.eval()
-                f_hat_total = self.model(
-                    timestamps=dataset['timestamps'].float().to(self.device),
-                    f0_interior=dataset['f0_interior'].unsqueeze(0).float().to(self.device),
-                    regular_edge_index=dataset['regular_edge_index'].to(self.device),
-                    f_boundary=dataset['f_boundary'].unsqueeze(1).float().to(self.device),
-                    half_edge_index=dataset['half_edge_index'].to(self.device)
-                )
+            self.model.eval()
+            f_hat_total = predict(self.model, dataset, self.device)
             validation_rmse = rmse_loss(f_hat_total.squeeze(), dataset['f_interior'].squeeze().to(self.device))
-            validation_losses.append(validation_rmse.item())
+            self.validation_losses.append(validation_rmse.item())
 
-            print('[*] epoch: {}, train_loss: {:.4f}, validation_rmse: {:.4f}, time: {:.1f}'.format(
+            self.logger.info('[*] epoch: {}, train_loss: {:.4f}, validation_rmse: {:.4f}, time: {:.1f}'.format(
                 epoch, batch_loss, validation_rmse, time.time() - start_time))
 
             # best model
-            if validation_rmse.item() < best_validation_rmse:
-                torch.save(self.model.state_dict(), os.path.join(self.artifacts_path, 'model', 'model.pt'))
-                best_validation_rmse = validation_rmse.item()
-                print('[*] model saved.')
+            self._save_model(validation_rmse)
+
+    def _save_model(self, validation_rmse):
+        # saving model with the best validation loss
+        if validation_rmse.item() < self.best_validation_rmse:
+            torch.save(self.model.state_dict(), os.path.join(self.artifacts_path, 'model', 'model.pt'))
+            self.best_validation_rmse = validation_rmse.item()
+            self.logger.info('[*] model saved.')
+
+    def _load_model(self):
+        self.model.load_state_dict(torch.load(os.path.join(self.artifacts_path, 'model', 'model.pt')))
+
+    def predict_train(self, dataset, grid_size_i, grid_size_j):
+        self._load_model()
+        self.model.eval()
+        f_hat_train = predict(self.model, dataset, self.device)
+        plot_true_pred_cylinder(
+            title='train',
+            grid_size_i=grid_size_i,
+            grid_size_j=grid_size_j,
+            dataset=dataset,
+            f_hat=f_hat_train,
+            save_path=os.path.join(self.artifacts_path, 'train/train.png')
+        )
+
+    def plot_loss_curves(self):
+        plot_loss_curve(
+            losses=self.train_losses,
+            title='Training loss',
+            ylabel='Log MSE loss',
+            save_path=os.path.join(self.artifacts_path, 'train/training_loss.png')
+        )
+        plot_loss_curve(
+            losses=self.validation_losses,
+            title='Validation loss',
+            ylabel='Log RMSE loss',
+            save_path=os.path.join(self.artifacts_path, 'train/validation_loss.png')
+        )
+
+
+
 
