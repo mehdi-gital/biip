@@ -13,6 +13,11 @@
     "batch_size": 16,
     "batch_time": 50,
     "device": "cpu"
+  },
+  "dataset": {
+    "num_timesteps": 1000,
+    "grid_size_i": 5,
+    "grid_size_j": 6
   }
 }
 
