@@ -5,15 +5,15 @@ import torch
 import numpy as np
 
 
-def prepare_dataset(data_path, mode):
+def prepare_dataset(data_path, prefix):
     # read graph data
     graph_data_path = os.path.join(data_path, 'graph_data.json')
     with open(graph_data_path) as file:
         graph_data = json.load(file)
     # read scalar field and timestamps data
-    f_interior = np.load(os.path.join(data_path, f'{mode}_f.npy'))
-    f_boundary = np.load(os.path.join(data_path, f'{mode}_boundary_values.npy'))
-    timestamps = np.load(os.path.join(data_path, f'{mode}_t.npy'))
+    f_interior = np.load(os.path.join(data_path, f'{prefix}_f.npy'))
+    f_boundary = np.load(os.path.join(data_path, f'{prefix}_boundary_values.npy'))
+    timestamps = np.load(os.path.join(data_path, f'{prefix}_t.npy'))
 
     # constructing the dataset
     regular_edge_index = torch.tensor(graph_data['regular_edges'], dtype=torch.long).t()  # interior edge_index
