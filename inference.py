@@ -3,7 +3,7 @@ import json
 import torch
 from biip.core.model import NeuralBIIP
 from biip.utils.data import prepare_dataset
-from biip.utils.validation import predict, rmse_loss
+from biip.utils.validation import rmse_loss
 from biip.utils.visualization import plot_true_pred_cylinder
 from biip.utils.helpers import get_device, get_logger
 
@@ -40,7 +40,7 @@ def main():
     model.eval()
 
     # test data
-    f_hat_test = predict(model, dataset_test, device)
+    f_hat_test = model.predict(dataset_test, device)
     plot_true_pred_cylinder(
         title='test',
         grid_size_i=configs['dataset']['grid_size_i'],
@@ -53,7 +53,7 @@ def main():
     logger.info(f'Model RMSE on test dataset: {rmse_test.item()}')
 
     # new data
-    f_hat_new = predict(model, dataset_new, device)
+    f_hat_new = model.predict(dataset_new, device)
     plot_true_pred_cylinder(
         title='new',
         grid_size_i=configs['dataset']['grid_size_i'],
