@@ -5,7 +5,7 @@ import torch
 from biip.core.model import NeuralBIIP
 from biip.utils.data import get_batch
 from biip.utils.validation import predict, rmse_loss
-from biip.utils.visualization import plot_true_pred_cylinder, plot_loss_curve
+from biip.utils.visualization import plot_loss_curve
 from biip.utils.helpers import get_device
 
 
@@ -88,21 +88,9 @@ class Learner:
             self.best_validation_rmse = validation_rmse.item()
             self.logger.info('[*] model saved.')
 
-    def _load_model(self):
+    def get_model(self):
         self.model.load_state_dict(torch.load(os.path.join(self.artifacts_path, 'model', 'model.pt')))
-
-    def predict_train(self, dataset, grid_size_i, grid_size_j):
-        self._load_model()
-        self.model.eval()
-        f_hat_train = predict(self.model, dataset, self.device)
-        plot_true_pred_cylinder(
-            title='train',
-            grid_size_i=grid_size_i,
-            grid_size_j=grid_size_j,
-            dataset=dataset,
-            f_hat=f_hat_train,
-            save_path=os.path.join(self.artifacts_path, 'train/train.png')
-        )
+        return self.model
 
     def plot_loss_curves(self):
         plot_loss_curve(
