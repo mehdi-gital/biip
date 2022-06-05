@@ -137,5 +137,16 @@ class NeuralBIIP(nn.Module):
         f_t = self.intop(timestamps, f0_interior, regular_edge_index, f_boundary, half_edge_index)
         return f_t
 
+    def predict(self, dataset, device):
+        with torch.no_grad():
+            f_t_hat = self.intop(
+                timestamps=dataset['timestamps'].float().to(device),
+                f0_interior=dataset['f0_interior'].unsqueeze(0).float().to(device),
+                regular_edge_index=dataset['regular_edge_index'].to(device),
+                f_boundary=dataset['f_boundary'].unsqueeze(1).float().to(device),
+                half_edge_index=dataset['half_edge_index'].to(device)
+            )
+        return f_t_hat
+
     def __repr__(self):
         return self.__class__.__name__
