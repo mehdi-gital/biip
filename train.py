@@ -2,6 +2,7 @@ import os
 import json
 from biip.core.learner import Learner
 from biip.utils.data import prepare_dataset
+from biip.utils.visualization import plot_true_pred_cylinder
 from biip.utils.helpers import get_logger
 
 # paths
@@ -44,10 +45,16 @@ def main():
     learner.plot_loss_curves()
 
     # validate model on entire train data
-    learner.predict_train(
-        dataset=train_dataset,
+    model = learner.get_model()
+    model.eval()
+    f_hat_train = model.predict(train_dataset, learner.device)
+    plot_true_pred_cylinder(
+        title='train',
         grid_size_i=configs['dataset']['grid_size_i'],
-        grid_size_j=configs['dataset']['grid_size_j']
+        grid_size_j=configs['dataset']['grid_size_j'],
+        dataset=train_dataset,
+        f_hat=f_hat_train,
+        save_path=os.path.join(artifacts_path, 'train/train.png')
     )
 
 
