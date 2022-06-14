@@ -9,6 +9,7 @@ class DiffOp(nn.Module):
     Neural differential operator $\mathrm{D}_{\Theta}$ defined in Equation 13 with teacher forcing.
     This differential operator is Dirichlet boundary informed.
     """
+
     def __init__(self, input_dim, hidden_dim, activation_fn):
         super(DiffOp, self).__init__()
 
@@ -17,7 +18,7 @@ class DiffOp(nn.Module):
         self.mp3 = SAGEConv(in_channels=hidden_dim, out_channels=hidden_dim)
         self.mp4 = SAGEConv(in_channels=hidden_dim, out_channels=hidden_dim)
         self.mp5 = SAGEConv(in_channels=hidden_dim, out_channels=input_dim)
-        if activation_fn == 'softplus':
+        if activation_fn == "softplus":
             self.act = nn.Softplus()
         else:
             raise NotImplementedError
@@ -44,29 +45,42 @@ class DiffOp(nn.Module):
         # message passing layer 1 defined in Equation 17
         x1 = self.mp1(x0, edge_index)
         x1 = self.act(x1)
-        x1 = torch.cat([x1[:, :num_nodes_interior, :], transformed_f_boundary_t], dim=1)  # teacher forcing
+        x1 = torch.cat(
+            [x1[:, :num_nodes_interior, :], transformed_f_boundary_t], dim=1
+        )  # teacher forcing
 
         # message passing layer 2 defined in Equation 17
         x2 = self.mp2(x1, edge_index)
         x2 = self.act(x2)
-        x2 = torch.cat([x2[:, :num_nodes_interior, :], transformed_f_boundary_t], dim=1)  # teacher forcing
+        x2 = torch.cat(
+            [x2[:, :num_nodes_interior, :], transformed_f_boundary_t], dim=1
+        )  # teacher forcing
 
         # message passing layer 3 defined in Equation 17
         x3 = self.mp3(x2, edge_index)
         x3 = self.act(x3)
-        x3 = torch.cat([x3[:, :num_nodes_interior, :], transformed_f_boundary_t], dim=1)  # teacher forcing
+        x3 = torch.cat(
+            [x3[:, :num_nodes_interior, :], transformed_f_boundary_t], dim=1
+        )  # teacher forcing
 
         # message passing layer 4 defined in Equation 17
         x4 = self.mp4(x3, edge_index)
         x4 = self.act(x4)
-        x4 = torch.cat([x4[:, :num_nodes_interior, :], transformed_f_boundary_t], dim=1)  # teacher forcing
+        x4 = torch.cat(
+            [x4[:, :num_nodes_interior, :], transformed_f_boundary_t], dim=1
+        )  # teacher forcing
 
         # message passing layer 5 with identity activation
         x5 = self.mp5(x4, edge_index)
 
         # creating the time derivative state of intG
-        dstate_dt = (x5[:, :num_nodes_interior, :], torch.zeros_like(state[1]), torch.zeros_like(state[2]),
-                     torch.zeros_like(state[3]), torch.zeros_like(state[4]))
+        dstate_dt = (
+            x5[:, :num_nodes_interior, :],
+            torch.zeros_like(state[1]),
+            torch.zeros_like(state[2]),
+            torch.zeros_like(state[3]),
+            torch.zeros_like(state[4]),
+        )
 
         return dstate_dt
 
@@ -76,7 +90,7 @@ class DiffOp(nn.Module):
         Linearly approximating boundary_value_t based on t, delta_t, boundary_values.
         """
         delta_t = timestamps[1] - timestamps[0]
-        k = torch.div(t, delta_t, rounding_mode='floor').long()
+        k = torch.div(t, delta_t, rounding_mode="floor").long()
         if k == timestamps.size(0) - 1:
             return f_boundary[k]
         min_time = timestamps[k]
@@ -95,6 +109,7 @@ class IntOp(nn.Module):
     """
     Integration operator.
     """
+
     def __init__(self, diffop, use_adjoint):
         super(IntOp, self).__init__()
         self.diffop = diffop
@@ -103,17 +118,25 @@ class IntOp(nn.Module):
         else:
             self.odeint = odeint
 
-    def forward(self, timestamps, f0_interior, regular_edge_index, f_boundary, half_edge_index):
+    def forward(
+        self, timestamps, f0_interior, regular_edge_index, f_boundary, half_edge_index
+    ):
         # packing the state
-        initial_state = (f0_interior, regular_edge_index, f_boundary, half_edge_index, timestamps)
+        initial_state = (
+            f0_interior,
+            regular_edge_index,
+            f_boundary,
+            half_edge_index,
+            timestamps,
+        )
 
         # integration
         updated_state = self.odeint(
             func=self.diffop,
             y0=initial_state,
             t=timestamps,
-            method='dopri5',
-            options={'step_t': timestamps[-1], 'first_step': torch.tensor(0.0001)}
+            method="dopri5",
+            options={"step_t": timestamps[-1], "first_step": torch.tensor(0.0001)},
         )
 
         f_t = updated_state[0]
@@ -127,24 +150,31 @@ class NeuralBIIP(nn.Module):
     """
     Neural dynamical system defined in Equation 16.
     """
+
     def __init__(self, input_dim, hidden_dim, use_adjoint, activation_fn):
         super(NeuralBIIP, self).__init__()
 
-        self.diffop = DiffOp(input_dim=input_dim, hidden_dim=hidden_dim, activation_fn=activation_fn)
+        self.diffop = DiffOp(
+            input_dim=input_dim, hidden_dim=hidden_dim, activation_fn=activation_fn
+        )
         self.intop = IntOp(diffop=self.diffop, use_adjoint=use_adjoint)
 
-    def forward(self, timestamps, f0_interior, regular_edge_index, f_boundary, half_edge_index):
-        f_t = self.intop(timestamps, f0_interior, regular_edge_index, f_boundary, half_edge_index)
+    def forward(
+        self, timestamps, f0_interior, regular_edge_index, f_boundary, half_edge_index
+    ):
+        f_t = self.intop(
+            timestamps, f0_interior, regular_edge_index, f_boundary, half_edge_index
+        )
         return f_t
 
     def predict(self, dataset, device):
         with torch.no_grad():
             f_t_hat = self.intop(
-                timestamps=dataset['timestamps'].float().to(device),
-                f0_interior=dataset['f0_interior'].unsqueeze(0).float().to(device),
-                regular_edge_index=dataset['regular_edge_index'].to(device),
-                f_boundary=dataset['f_boundary'].unsqueeze(1).float().to(device),
-                half_edge_index=dataset['half_edge_index'].to(device)
+                timestamps=dataset["timestamps"].float().to(device),
+                f0_interior=dataset["f0_interior"].unsqueeze(0).float().to(device),
+                regular_edge_index=dataset["regular_edge_index"].to(device),
+                f_boundary=dataset["f_boundary"].unsqueeze(1).float().to(device),
+                half_edge_index=dataset["half_edge_index"].to(device),
             )
         return f_t_hat
 
