@@ -1,0 +1,1113 @@
+INFO 2022-06-05 01:09:28,479 - [*] epoch: 0, train_loss: 1191.9261, validation_rmse: 462.5847, time: 1.1
+INFO 2022-06-05 01:09:28,481 - [*] model saved.
+INFO 2022-06-05 01:09:29,377 - [*] epoch: 1, train_loss: 622.1327, validation_rmse: 458.6399, time: 0.9
+INFO 2022-06-05 01:09:29,378 - [*] model saved.
+INFO 2022-06-05 01:09:30,371 - [*] epoch: 2, train_loss: 704.1953, validation_rmse: 454.4531, time: 1.0
+INFO 2022-06-05 01:09:30,372 - [*] model saved.
+INFO 2022-06-05 01:09:31,448 - [*] epoch: 3, train_loss: 942.2986, validation_rmse: 449.7241, time: 1.1
+INFO 2022-06-05 01:09:31,449 - [*] model saved.
+INFO 2022-06-05 01:09:32,280 - [*] epoch: 4, train_loss: 374.2748, validation_rmse: 444.3160, time: 0.8
+INFO 2022-06-05 01:09:32,281 - [*] model saved.
+INFO 2022-06-05 01:09:33,105 - [*] epoch: 5, train_loss: 1111.5382, validation_rmse: 437.9443, time: 0.8
+INFO 2022-06-05 01:09:33,106 - [*] model saved.
+INFO 2022-06-05 01:09:34,160 - [*] epoch: 6, train_loss: 1029.3998, validation_rmse: 430.4294, time: 1.1
+INFO 2022-06-05 01:09:34,161 - [*] model saved.
+INFO 2022-06-05 01:09:35,100 - [*] epoch: 7, train_loss: 842.5009, validation_rmse: 421.9537, time: 0.9
+INFO 2022-06-05 01:09:35,101 - [*] model saved.
+INFO 2022-06-05 01:09:35,927 - [*] epoch: 8, train_loss: 232.0083, validation_rmse: 413.5093, time: 0.8
+INFO 2022-06-05 01:09:35,929 - [*] model saved.
+INFO 2022-06-05 01:09:37,004 - [*] epoch: 9, train_loss: 1036.6427, validation_rmse: 404.6750, time: 1.1
+INFO 2022-06-05 01:09:37,006 - [*] model saved.
+INFO 2022-06-05 01:09:37,855 - [*] epoch: 10, train_loss: 26.8930, validation_rmse: 398.3521, time: 0.8
+INFO 2022-06-05 01:09:37,857 - [*] model saved.
+INFO 2022-06-05 01:09:38,706 - [*] epoch: 11, train_loss: 740.4954, validation_rmse: 391.1439, time: 0.8
+INFO 2022-06-05 01:09:38,707 - [*] model saved.
+INFO 2022-06-05 01:09:39,588 - [*] epoch: 12, train_loss: 549.1067, validation_rmse: 384.0934, time: 0.9
+INFO 2022-06-05 01:09:39,590 - [*] model saved.
+INFO 2022-06-05 01:09:40,718 - [*] epoch: 13, train_loss: 1229.3650, validation_rmse: 375.4674, time: 1.1
+INFO 2022-06-05 01:09:40,719 - [*] model saved.
+INFO 2022-06-05 01:09:41,618 - [*] epoch: 14, train_loss: 238.2480, validation_rmse: 368.8252, time: 0.9
+INFO 2022-06-05 01:09:41,619 - [*] model saved.
+INFO 2022-06-05 01:09:42,512 - [*] epoch: 15, train_loss: 659.3354, validation_rmse: 361.8208, time: 0.9
+INFO 2022-06-05 01:09:42,513 - [*] model saved.
+INFO 2022-06-05 01:09:43,401 - [*] epoch: 16, train_loss: 222.1494, validation_rmse: 357.5954, time: 0.9
+INFO 2022-06-05 01:09:43,402 - [*] model saved.
+INFO 2022-06-05 01:09:44,486 - [*] epoch: 17, train_loss: 704.5212, validation_rmse: 353.1327, time: 1.1
+INFO 2022-06-05 01:09:44,488 - [*] model saved.
+INFO 2022-06-05 01:09:45,510 - [*] epoch: 18, train_loss: 402.8901, validation_rmse: 347.0749, time: 1.0
+INFO 2022-06-05 01:09:45,511 - [*] model saved.
+INFO 2022-06-05 01:09:46,425 - [*] epoch: 19, train_loss: 423.3581, validation_rmse: 336.0388, time: 0.9
+INFO 2022-06-05 01:09:46,426 - [*] model saved.
+INFO 2022-06-05 01:09:47,471 - [*] epoch: 20, train_loss: 570.9446, validation_rmse: 319.4743, time: 1.0
+INFO 2022-06-05 01:09:47,473 - [*] model saved.
+INFO 2022-06-05 01:09:49,278 - [*] epoch: 21, train_loss: 1226.0516, validation_rmse: 299.6870, time: 1.8
+INFO 2022-06-05 01:09:49,281 - [*] model saved.
+INFO 2022-06-05 01:09:50,880 - [*] epoch: 22, train_loss: 766.9505, validation_rmse: 283.1581, time: 1.6
+INFO 2022-06-05 01:09:50,881 - [*] model saved.
+INFO 2022-06-05 01:09:52,320 - [*] epoch: 23, train_loss: 574.8178, validation_rmse: 268.0020, time: 1.4
+INFO 2022-06-05 01:09:52,321 - [*] model saved.
+INFO 2022-06-05 01:09:53,326 - [*] epoch: 24, train_loss: 269.1003, validation_rmse: 256.4378, time: 1.0
+INFO 2022-06-05 01:09:53,327 - [*] model saved.
+INFO 2022-06-05 01:09:54,431 - [*] epoch: 25, train_loss: 655.8529, validation_rmse: 246.4802, time: 1.1
+INFO 2022-06-05 01:09:54,432 - [*] model saved.
+INFO 2022-06-05 01:09:55,369 - [*] epoch: 26, train_loss: 89.4139, validation_rmse: 246.3760, time: 0.9
+INFO 2022-06-05 01:09:55,371 - [*] model saved.
+INFO 2022-06-05 01:09:56,563 - [*] epoch: 27, train_loss: 746.8656, validation_rmse: 226.4943, time: 1.2
+INFO 2022-06-05 01:09:56,564 - [*] model saved.
+INFO 2022-06-05 01:09:57,535 - [*] epoch: 28, train_loss: 124.8511, validation_rmse: 203.2454, time: 1.0
+INFO 2022-06-05 01:09:57,537 - [*] model saved.
+INFO 2022-06-05 01:09:58,663 - [*] epoch: 29, train_loss: 255.7973, validation_rmse: 184.7003, time: 1.1
+INFO 2022-06-05 01:09:58,664 - [*] model saved.
+INFO 2022-06-05 01:10:00,307 - [*] epoch: 30, train_loss: 1229.3538, validation_rmse: 169.9933, time: 1.6
+INFO 2022-06-05 01:10:00,308 - [*] model saved.
+INFO 2022-06-05 01:10:01,550 - [*] epoch: 31, train_loss: 420.2282, validation_rmse: 157.1131, time: 1.2
+INFO 2022-06-05 01:10:01,553 - [*] model saved.
+INFO 2022-06-05 01:10:02,683 - [*] epoch: 32, train_loss: 348.6178, validation_rmse: 165.3608, time: 1.1
+INFO 2022-06-05 01:10:04,050 - [*] epoch: 33, train_loss: 698.3408, validation_rmse: 153.1405, time: 1.4
+INFO 2022-06-05 01:10:04,052 - [*] model saved.
+INFO 2022-06-05 01:10:05,179 - [*] epoch: 34, train_loss: 200.8428, validation_rmse: 124.8637, time: 1.1
+INFO 2022-06-05 01:10:05,181 - [*] model saved.
+INFO 2022-06-05 01:10:06,447 - [*] epoch: 35, train_loss: 185.7435, validation_rmse: 111.8495, time: 1.3
+INFO 2022-06-05 01:10:06,448 - [*] model saved.
+INFO 2022-06-05 01:10:07,828 - [*] epoch: 36, train_loss: 496.6099, validation_rmse: 104.4428, time: 1.4
+INFO 2022-06-05 01:10:07,831 - [*] model saved.
+INFO 2022-06-05 01:10:09,331 - [*] epoch: 37, train_loss: 501.8845, validation_rmse: 107.3545, time: 1.5
+INFO 2022-06-05 01:10:10,713 - [*] epoch: 38, train_loss: 100.6496, validation_rmse: 107.2288, time: 1.4
+INFO 2022-06-05 01:10:12,188 - [*] epoch: 39, train_loss: 296.3689, validation_rmse: 75.8269, time: 1.5
+INFO 2022-06-05 01:10:12,191 - [*] model saved.
+INFO 2022-06-05 01:10:13,511 - [*] epoch: 40, train_loss: 44.8643, validation_rmse: 95.6392, time: 1.3
+INFO 2022-06-05 01:10:15,119 - [*] epoch: 41, train_loss: 125.4923, validation_rmse: 91.4712, time: 1.6
+INFO 2022-06-05 01:10:16,790 - [*] epoch: 42, train_loss: 144.9808, validation_rmse: 62.5057, time: 1.7
+INFO 2022-06-05 01:10:16,794 - [*] model saved.
+INFO 2022-06-05 01:10:18,825 - [*] epoch: 43, train_loss: 245.7743, validation_rmse: 101.3326, time: 2.0
+INFO 2022-06-05 01:10:20,413 - [*] epoch: 44, train_loss: 37.6345, validation_rmse: 81.5099, time: 1.6
+INFO 2022-06-05 01:10:21,990 - [*] epoch: 45, train_loss: 115.1731, validation_rmse: 56.3747, time: 1.6
+INFO 2022-06-05 01:10:21,991 - [*] model saved.
+INFO 2022-06-05 01:10:23,547 - [*] epoch: 46, train_loss: 80.0562, validation_rmse: 108.4306, time: 1.6
+INFO 2022-06-05 01:10:24,990 - [*] epoch: 47, train_loss: 42.3140, validation_rmse: 85.1590, time: 1.4
+INFO 2022-06-05 01:10:26,922 - [*] epoch: 48, train_loss: 259.8564, validation_rmse: 51.9841, time: 1.9
+INFO 2022-06-05 01:10:26,924 - [*] model saved.
+INFO 2022-06-05 01:10:29,060 - [*] epoch: 49, train_loss: 271.0494, validation_rmse: 54.1772, time: 2.1
+INFO 2022-06-05 01:10:31,055 - [*] epoch: 50, train_loss: 67.3453, validation_rmse: 87.4825, time: 2.0
+INFO 2022-06-05 01:10:32,871 - [*] epoch: 51, train_loss: 82.0084, validation_rmse: 43.9610, time: 1.8
+INFO 2022-06-05 01:10:32,875 - [*] model saved.
+INFO 2022-06-05 01:10:34,461 - [*] epoch: 52, train_loss: 49.2548, validation_rmse: 41.3860, time: 1.6
+INFO 2022-06-05 01:10:34,462 - [*] model saved.
+INFO 2022-06-05 01:10:36,038 - [*] epoch: 53, train_loss: 38.2495, validation_rmse: 61.5085, time: 1.6
+INFO 2022-06-05 01:10:37,584 - [*] epoch: 54, train_loss: 48.1226, validation_rmse: 56.6648, time: 1.5
+INFO 2022-06-05 01:10:39,261 - [*] epoch: 55, train_loss: 173.5401, validation_rmse: 40.6972, time: 1.7
+INFO 2022-06-05 01:10:39,262 - [*] model saved.
+INFO 2022-06-05 01:10:40,481 - [*] epoch: 56, train_loss: 16.4535, validation_rmse: 37.3350, time: 1.2
+INFO 2022-06-05 01:10:40,482 - [*] model saved.
+INFO 2022-06-05 01:10:41,860 - [*] epoch: 57, train_loss: 9.8880, validation_rmse: 58.8198, time: 1.4
+INFO 2022-06-05 01:10:43,428 - [*] epoch: 58, train_loss: 52.4980, validation_rmse: 56.4814, time: 1.6
+INFO 2022-06-05 01:10:44,736 - [*] epoch: 59, train_loss: 16.1949, validation_rmse: 34.9703, time: 1.3
+INFO 2022-06-05 01:10:44,739 - [*] model saved.
+INFO 2022-06-05 01:10:46,236 - [*] epoch: 60, train_loss: 21.3430, validation_rmse: 34.2854, time: 1.5
+INFO 2022-06-05 01:10:46,237 - [*] model saved.
+INFO 2022-06-05 01:10:48,035 - [*] epoch: 61, train_loss: 52.3325, validation_rmse: 56.0276, time: 1.8
+INFO 2022-06-05 01:10:49,666 - [*] epoch: 62, train_loss: 30.5184, validation_rmse: 50.2410, time: 1.6
+INFO 2022-06-05 01:10:51,563 - [*] epoch: 63, train_loss: 174.5600, validation_rmse: 32.7657, time: 1.9
+INFO 2022-06-05 01:10:51,564 - [*] model saved.
+INFO 2022-06-05 01:10:53,430 - [*] epoch: 64, train_loss: 300.8128, validation_rmse: 32.7323, time: 1.9
+INFO 2022-06-05 01:10:53,431 - [*] model saved.
+INFO 2022-06-05 01:10:55,057 - [*] epoch: 65, train_loss: 47.5643, validation_rmse: 51.7652, time: 1.6
+INFO 2022-06-05 01:10:56,809 - [*] epoch: 66, train_loss: 60.0832, validation_rmse: 50.8600, time: 1.8
+INFO 2022-06-05 01:10:58,563 - [*] epoch: 67, train_loss: 23.1268, validation_rmse: 28.3132, time: 1.8
+INFO 2022-06-05 01:10:58,565 - [*] model saved.
+INFO 2022-06-05 01:11:00,295 - [*] epoch: 68, train_loss: 87.2420, validation_rmse: 34.1051, time: 1.7
+INFO 2022-06-05 01:11:01,882 - [*] epoch: 69, train_loss: 44.6207, validation_rmse: 35.6388, time: 1.6
+INFO 2022-06-05 01:11:03,684 - [*] epoch: 70, train_loss: 51.8359, validation_rmse: 53.3530, time: 1.8
+INFO 2022-06-05 01:11:05,406 - [*] epoch: 71, train_loss: 35.6522, validation_rmse: 25.6953, time: 1.7
+INFO 2022-06-05 01:11:05,408 - [*] model saved.
+INFO 2022-06-05 01:11:07,168 - [*] epoch: 72, train_loss: 57.2719, validation_rmse: 31.3526, time: 1.8
+INFO 2022-06-05 01:11:08,859 - [*] epoch: 73, train_loss: 26.9790, validation_rmse: 23.3796, time: 1.7
+INFO 2022-06-05 01:11:08,861 - [*] model saved.
+INFO 2022-06-05 01:11:10,540 - [*] epoch: 74, train_loss: 10.7008, validation_rmse: 41.2311, time: 1.7
+INFO 2022-06-05 01:11:12,307 - [*] epoch: 75, train_loss: 43.7152, validation_rmse: 29.9216, time: 1.8
+INFO 2022-06-05 01:11:14,020 - [*] epoch: 76, train_loss: 21.4043, validation_rmse: 25.2658, time: 1.7
+INFO 2022-06-05 01:11:15,688 - [*] epoch: 77, train_loss: 20.9466, validation_rmse: 24.6638, time: 1.7
+INFO 2022-06-05 01:11:17,737 - [*] epoch: 78, train_loss: 168.6806, validation_rmse: 22.6235, time: 2.0
+INFO 2022-06-05 01:11:17,738 - [*] model saved.
+INFO 2022-06-05 01:11:19,556 - [*] epoch: 79, train_loss: 11.5891, validation_rmse: 30.8999, time: 1.8
+INFO 2022-06-05 01:11:21,463 - [*] epoch: 80, train_loss: 23.6110, validation_rmse: 19.3489, time: 1.9
+INFO 2022-06-05 01:11:21,467 - [*] model saved.
+INFO 2022-06-05 01:11:23,297 - [*] epoch: 81, train_loss: 12.2591, validation_rmse: 22.4090, time: 1.8
+INFO 2022-06-05 01:11:25,337 - [*] epoch: 82, train_loss: 59.8503, validation_rmse: 20.1318, time: 2.0
+INFO 2022-06-05 01:11:27,381 - [*] epoch: 83, train_loss: 50.7146, validation_rmse: 20.0917, time: 2.0
+INFO 2022-06-05 01:11:29,410 - [*] epoch: 84, train_loss: 69.0196, validation_rmse: 23.0638, time: 2.0
+INFO 2022-06-05 01:11:31,144 - [*] epoch: 85, train_loss: 9.7186, validation_rmse: 16.9287, time: 1.7
+INFO 2022-06-05 01:11:31,147 - [*] model saved.
+INFO 2022-06-05 01:11:33,196 - [*] epoch: 86, train_loss: 27.0503, validation_rmse: 16.3098, time: 2.0
+INFO 2022-06-05 01:11:33,197 - [*] model saved.
+INFO 2022-06-05 01:11:35,044 - [*] epoch: 87, train_loss: 7.6747, validation_rmse: 18.9757, time: 1.8
+INFO 2022-06-05 01:11:36,563 - [*] epoch: 88, train_loss: 4.1889, validation_rmse: 16.9694, time: 1.5
+INFO 2022-06-05 01:11:38,925 - [*] epoch: 89, train_loss: 45.5104, validation_rmse: 15.3744, time: 2.4
+INFO 2022-06-05 01:11:38,926 - [*] model saved.
+INFO 2022-06-05 01:11:40,801 - [*] epoch: 90, train_loss: 12.2591, validation_rmse: 14.8211, time: 1.9
+INFO 2022-06-05 01:11:40,802 - [*] model saved.
+INFO 2022-06-05 01:11:42,429 - [*] epoch: 91, train_loss: 6.3412, validation_rmse: 16.4629, time: 1.6
+INFO 2022-06-05 01:11:44,068 - [*] epoch: 92, train_loss: 7.4429, validation_rmse: 15.5184, time: 1.6
+INFO 2022-06-05 01:11:46,239 - [*] epoch: 93, train_loss: 23.6131, validation_rmse: 13.5089, time: 2.2
+INFO 2022-06-05 01:11:46,240 - [*] model saved.
+INFO 2022-06-05 01:11:48,298 - [*] epoch: 94, train_loss: 12.8986, validation_rmse: 13.1150, time: 2.1
+INFO 2022-06-05 01:11:48,299 - [*] model saved.
+INFO 2022-06-05 01:11:50,938 - [*] epoch: 95, train_loss: 37.8679, validation_rmse: 13.7590, time: 2.6
+INFO 2022-06-05 01:11:53,174 - [*] epoch: 96, train_loss: 8.7041, validation_rmse: 13.2392, time: 2.2
+INFO 2022-06-05 01:11:55,582 - [*] epoch: 97, train_loss: 13.7280, validation_rmse: 12.1332, time: 2.4
+INFO 2022-06-05 01:11:55,584 - [*] model saved.
+INFO 2022-06-05 01:11:57,690 - [*] epoch: 98, train_loss: 12.3217, validation_rmse: 12.1192, time: 2.1
+INFO 2022-06-05 01:11:57,691 - [*] model saved.
+INFO 2022-06-05 01:11:59,614 - [*] epoch: 99, train_loss: 7.0084, validation_rmse: 11.8305, time: 1.9
+INFO 2022-06-05 01:11:59,616 - [*] model saved.
+INFO 2022-06-05 01:12:02,237 - [*] epoch: 100, train_loss: 10.9717, validation_rmse: 11.0362, time: 2.6
+INFO 2022-06-05 01:12:02,239 - [*] model saved.
+INFO 2022-06-05 01:12:05,273 - [*] epoch: 101, train_loss: 15.8834, validation_rmse: 10.8048, time: 3.0
+INFO 2022-06-05 01:12:05,275 - [*] model saved.
+INFO 2022-06-05 01:12:07,518 - [*] epoch: 102, train_loss: 5.3030, validation_rmse: 9.9876, time: 2.2
+INFO 2022-06-05 01:12:07,519 - [*] model saved.
+INFO 2022-06-05 01:12:09,276 - [*] epoch: 103, train_loss: 1.7713, validation_rmse: 10.2874, time: 1.8
+INFO 2022-06-05 01:12:12,175 - [*] epoch: 104, train_loss: 9.2286, validation_rmse: 11.5714, time: 2.9
+INFO 2022-06-05 01:12:14,100 - [*] epoch: 105, train_loss: 3.0939, validation_rmse: 9.6075, time: 1.9
+INFO 2022-06-05 01:12:14,102 - [*] model saved.
+INFO 2022-06-05 01:12:16,507 - [*] epoch: 106, train_loss: 4.8871, validation_rmse: 11.2516, time: 2.4
+INFO 2022-06-05 01:12:19,034 - [*] epoch: 107, train_loss: 8.2769, validation_rmse: 8.1216, time: 2.5
+INFO 2022-06-05 01:12:19,038 - [*] model saved.
+INFO 2022-06-05 01:12:21,146 - [*] epoch: 108, train_loss: 1.5105, validation_rmse: 8.8991, time: 2.1
+INFO 2022-06-05 01:12:23,233 - [*] epoch: 109, train_loss: 1.8060, validation_rmse: 7.4703, time: 2.1
+INFO 2022-06-05 01:12:23,235 - [*] model saved.
+INFO 2022-06-05 01:12:25,090 - [*] epoch: 110, train_loss: 1.0788, validation_rmse: 9.5585, time: 1.9
+INFO 2022-06-05 01:12:29,650 - [*] epoch: 111, train_loss: 12.7828, validation_rmse: 7.7326, time: 4.6
+INFO 2022-06-05 01:12:34,018 - [*] epoch: 112, train_loss: 10.5923, validation_rmse: 7.7090, time: 4.4
+INFO 2022-06-05 01:12:36,831 - [*] epoch: 113, train_loss: 4.6395, validation_rmse: 10.0005, time: 2.8
+INFO 2022-06-05 01:12:39,392 - [*] epoch: 114, train_loss: 5.2157, validation_rmse: 8.8614, time: 2.6
+INFO 2022-06-05 01:12:42,230 - [*] epoch: 115, train_loss: 4.3501, validation_rmse: 8.3510, time: 2.8
+INFO 2022-06-05 01:12:44,758 - [*] epoch: 116, train_loss: 5.2668, validation_rmse: 6.4450, time: 2.5
+INFO 2022-06-05 01:12:44,760 - [*] model saved.
+INFO 2022-06-05 01:12:46,634 - [*] epoch: 117, train_loss: 0.7085, validation_rmse: 10.1238, time: 1.9
+INFO 2022-06-05 01:12:48,667 - [*] epoch: 118, train_loss: 2.2769, validation_rmse: 6.3375, time: 2.0
+INFO 2022-06-05 01:12:48,668 - [*] model saved.
+INFO 2022-06-05 01:12:53,306 - [*] epoch: 119, train_loss: 7.8221, validation_rmse: 8.8990, time: 4.6
+INFO 2022-06-05 01:12:55,471 - [*] epoch: 120, train_loss: 1.1065, validation_rmse: 7.9645, time: 2.2
+INFO 2022-06-05 01:12:57,549 - [*] epoch: 121, train_loss: 1.4268, validation_rmse: 8.6761, time: 2.1
+INFO 2022-06-05 01:12:59,771 - [*] epoch: 122, train_loss: 2.1229, validation_rmse: 7.2855, time: 2.2
+INFO 2022-06-05 01:13:01,925 - [*] epoch: 123, train_loss: 2.8240, validation_rmse: 6.3681, time: 2.2
+INFO 2022-06-05 01:13:04,706 - [*] epoch: 124, train_loss: 4.6935, validation_rmse: 7.4806, time: 2.8
+INFO 2022-06-05 01:13:06,842 - [*] epoch: 125, train_loss: 1.4002, validation_rmse: 5.9646, time: 2.1
+INFO 2022-06-05 01:13:06,845 - [*] model saved.
+INFO 2022-06-05 01:13:09,947 - [*] epoch: 126, train_loss: 7.7220, validation_rmse: 7.6286, time: 3.1
+INFO 2022-06-05 01:13:11,943 - [*] epoch: 127, train_loss: 1.4215, validation_rmse: 6.5930, time: 2.0
+INFO 2022-06-05 01:13:13,632 - [*] epoch: 128, train_loss: 0.3119, validation_rmse: 10.3680, time: 1.7
+INFO 2022-06-05 01:13:15,738 - [*] epoch: 129, train_loss: 2.1734, validation_rmse: 6.4438, time: 2.1
+INFO 2022-06-05 01:13:20,294 - [*] epoch: 130, train_loss: 6.6689, validation_rmse: 9.5508, time: 4.6
+INFO 2022-06-05 01:13:21,978 - [*] epoch: 131, train_loss: 0.6528, validation_rmse: 10.6698, time: 1.7
+INFO 2022-06-05 01:13:24,264 - [*] epoch: 132, train_loss: 2.1678, validation_rmse: 10.5942, time: 2.3
+INFO 2022-06-05 01:13:26,750 - [*] epoch: 133, train_loss: 3.6665, validation_rmse: 10.8498, time: 2.5
+INFO 2022-06-05 01:13:28,746 - [*] epoch: 134, train_loss: 2.2108, validation_rmse: 5.3290, time: 2.0
+INFO 2022-06-05 01:13:28,748 - [*] model saved.
+INFO 2022-06-05 01:13:31,306 - [*] epoch: 135, train_loss: 2.7530, validation_rmse: 13.0151, time: 2.6
+INFO 2022-06-05 01:13:33,616 - [*] epoch: 136, train_loss: 2.4768, validation_rmse: 5.1185, time: 2.3
+INFO 2022-06-05 01:13:33,618 - [*] model saved.
+INFO 2022-06-05 01:13:35,796 - [*] epoch: 137, train_loss: 2.4811, validation_rmse: 8.6831, time: 2.2
+INFO 2022-06-05 01:13:40,189 - [*] epoch: 138, train_loss: 6.0497, validation_rmse: 6.0289, time: 4.4
+INFO 2022-06-05 01:13:41,843 - [*] epoch: 139, train_loss: 0.2722, validation_rmse: 10.8996, time: 1.7
+INFO 2022-06-05 01:13:43,723 - [*] epoch: 140, train_loss: 0.5411, validation_rmse: 5.0098, time: 1.9
+INFO 2022-06-05 01:13:43,724 - [*] model saved.
+INFO 2022-06-05 01:13:46,375 - [*] epoch: 141, train_loss: 6.0289, validation_rmse: 11.9860, time: 2.7
+INFO 2022-06-05 01:13:49,831 - [*] epoch: 142, train_loss: 6.6600, validation_rmse: 5.6374, time: 3.5
+INFO 2022-06-05 01:13:52,847 - [*] epoch: 143, train_loss: 3.0352, validation_rmse: 11.0990, time: 3.0
+INFO 2022-06-05 01:13:57,428 - [*] epoch: 144, train_loss: 6.9227, validation_rmse: 13.7659, time: 4.6
+INFO 2022-06-05 01:13:59,339 - [*] epoch: 145, train_loss: 1.1511, validation_rmse: 5.4614, time: 1.9
+INFO 2022-06-05 01:14:01,133 - [*] epoch: 146, train_loss: 0.7617, validation_rmse: 14.8030, time: 1.8
+INFO 2022-06-05 01:14:02,826 - [*] epoch: 147, train_loss: 1.0229, validation_rmse: 5.1296, time: 1.7
+INFO 2022-06-05 01:14:05,607 - [*] epoch: 148, train_loss: 3.4142, validation_rmse: 13.6296, time: 2.8
+INFO 2022-06-05 01:14:07,652 - [*] epoch: 149, train_loss: 1.9175, validation_rmse: 7.6471, time: 2.0
+INFO 2022-06-05 01:14:09,368 - [*] epoch: 150, train_loss: 0.2545, validation_rmse: 14.1763, time: 1.7
+INFO 2022-06-05 01:14:11,968 - [*] epoch: 151, train_loss: 2.5346, validation_rmse: 11.6892, time: 2.6
+INFO 2022-06-05 01:14:14,441 - [*] epoch: 152, train_loss: 1.8970, validation_rmse: 8.1902, time: 2.5
+INFO 2022-06-05 01:14:16,142 - [*] epoch: 153, train_loss: 0.6392, validation_rmse: 15.1925, time: 1.7
+INFO 2022-06-05 01:14:19,902 - [*] epoch: 154, train_loss: 4.1039, validation_rmse: 4.9733, time: 3.8
+INFO 2022-06-05 01:14:19,904 - [*] model saved.
+INFO 2022-06-05 01:14:21,885 - [*] epoch: 155, train_loss: 0.5788, validation_rmse: 11.9333, time: 2.0
+INFO 2022-06-05 01:14:24,698 - [*] epoch: 156, train_loss: 2.6484, validation_rmse: 7.8387, time: 2.8
+INFO 2022-06-05 01:14:26,640 - [*] epoch: 157, train_loss: 0.9038, validation_rmse: 9.3079, time: 1.9
+INFO 2022-06-05 01:14:28,450 - [*] epoch: 158, train_loss: 0.7247, validation_rmse: 9.6269, time: 1.8
+INFO 2022-06-05 01:14:30,314 - [*] epoch: 159, train_loss: 0.8768, validation_rmse: 5.1319, time: 1.9
+INFO 2022-06-05 01:14:32,597 - [*] epoch: 160, train_loss: 1.2454, validation_rmse: 11.4903, time: 2.3
+INFO 2022-06-05 01:14:34,959 - [*] epoch: 161, train_loss: 1.8471, validation_rmse: 4.2611, time: 2.4
+INFO 2022-06-05 01:14:34,961 - [*] model saved.
+INFO 2022-06-05 01:14:36,577 - [*] epoch: 162, train_loss: 0.2586, validation_rmse: 8.0059, time: 1.6
+INFO 2022-06-05 01:14:39,628 - [*] epoch: 163, train_loss: 2.7322, validation_rmse: 5.2572, time: 3.1
+INFO 2022-06-05 01:14:42,079 - [*] epoch: 164, train_loss: 1.5837, validation_rmse: 7.7937, time: 2.5
+INFO 2022-06-05 01:14:43,834 - [*] epoch: 165, train_loss: 0.7886, validation_rmse: 6.0680, time: 1.8
+INFO 2022-06-05 01:14:45,756 - [*] epoch: 166, train_loss: 0.7906, validation_rmse: 4.2319, time: 1.9
+INFO 2022-06-05 01:14:45,757 - [*] model saved.
+INFO 2022-06-05 01:14:47,843 - [*] epoch: 167, train_loss: 1.4293, validation_rmse: 7.8651, time: 2.1
+INFO 2022-06-05 01:14:49,731 - [*] epoch: 168, train_loss: 0.8867, validation_rmse: 4.3355, time: 1.9
+INFO 2022-06-05 01:14:51,525 - [*] epoch: 169, train_loss: 0.5361, validation_rmse: 4.8247, time: 1.8
+INFO 2022-06-05 01:14:53,776 - [*] epoch: 170, train_loss: 1.3837, validation_rmse: 6.9146, time: 2.3
+INFO 2022-06-05 01:14:55,613 - [*] epoch: 171, train_loss: 0.3169, validation_rmse: 5.8201, time: 1.8
+INFO 2022-06-05 01:14:57,266 - [*] epoch: 172, train_loss: 0.1957, validation_rmse: 4.2879, time: 1.7
+INFO 2022-06-05 01:14:59,419 - [*] epoch: 173, train_loss: 1.0624, validation_rmse: 4.5300, time: 2.2
+INFO 2022-06-05 01:15:03,387 - [*] epoch: 174, train_loss: 2.5199, validation_rmse: 5.5855, time: 4.0
+INFO 2022-06-05 01:15:08,423 - [*] epoch: 175, train_loss: 4.4127, validation_rmse: 4.8098, time: 5.0
+INFO 2022-06-05 01:15:10,673 - [*] epoch: 176, train_loss: 0.5219, validation_rmse: 4.1815, time: 2.2
+INFO 2022-06-05 01:15:10,677 - [*] model saved.
+INFO 2022-06-05 01:15:13,601 - [*] epoch: 177, train_loss: 1.9878, validation_rmse: 4.5976, time: 2.9
+INFO 2022-06-05 01:15:17,432 - [*] epoch: 178, train_loss: 3.1629, validation_rmse: 8.8919, time: 3.8
+INFO 2022-06-05 01:15:19,433 - [*] epoch: 179, train_loss: 0.7212, validation_rmse: 5.4827, time: 2.0
+INFO 2022-06-05 01:15:21,902 - [*] epoch: 180, train_loss: 1.6431, validation_rmse: 6.4467, time: 2.5
+INFO 2022-06-05 01:15:23,647 - [*] epoch: 181, train_loss: 0.4524, validation_rmse: 5.8628, time: 1.7
+INFO 2022-06-05 01:15:26,420 - [*] epoch: 182, train_loss: 2.1486, validation_rmse: 5.7575, time: 2.8
+INFO 2022-06-05 01:15:28,222 - [*] epoch: 183, train_loss: 0.4883, validation_rmse: 8.3157, time: 1.8
+INFO 2022-06-05 01:15:29,771 - [*] epoch: 184, train_loss: 0.4070, validation_rmse: 3.8421, time: 1.5
+INFO 2022-06-05 01:15:29,772 - [*] model saved.
+INFO 2022-06-05 01:15:33,535 - [*] epoch: 185, train_loss: 2.3273, validation_rmse: 9.1313, time: 3.8
+INFO 2022-06-05 01:15:35,017 - [*] epoch: 186, train_loss: 0.3734, validation_rmse: 5.7642, time: 1.5
+INFO 2022-06-05 01:15:36,783 - [*] epoch: 187, train_loss: 0.2674, validation_rmse: 6.9840, time: 1.8
+INFO 2022-06-05 01:15:38,620 - [*] epoch: 188, train_loss: 0.7155, validation_rmse: 9.7091, time: 1.8
+INFO 2022-06-05 01:15:40,434 - [*] epoch: 189, train_loss: 0.7163, validation_rmse: 3.6245, time: 1.8
+INFO 2022-06-05 01:15:40,437 - [*] model saved.
+INFO 2022-06-05 01:15:43,206 - [*] epoch: 190, train_loss: 1.6599, validation_rmse: 7.3990, time: 2.8
+INFO 2022-06-05 01:15:45,121 - [*] epoch: 191, train_loss: 0.6355, validation_rmse: 7.6096, time: 1.9
+INFO 2022-06-05 01:15:47,225 - [*] epoch: 192, train_loss: 0.9590, validation_rmse: 3.4029, time: 2.1
+INFO 2022-06-05 01:15:47,227 - [*] model saved.
+INFO 2022-06-05 01:15:49,726 - [*] epoch: 193, train_loss: 1.0239, validation_rmse: 7.4619, time: 2.5
+INFO 2022-06-05 01:15:52,378 - [*] epoch: 194, train_loss: 2.2119, validation_rmse: 7.0599, time: 2.7
+INFO 2022-06-05 01:15:54,201 - [*] epoch: 195, train_loss: 0.7086, validation_rmse: 3.7324, time: 1.8
+INFO 2022-06-05 01:15:55,891 - [*] epoch: 196, train_loss: 0.3358, validation_rmse: 8.5094, time: 1.7
+INFO 2022-06-05 01:15:57,306 - [*] epoch: 197, train_loss: 0.3285, validation_rmse: 3.2492, time: 1.4
+INFO 2022-06-05 01:15:57,309 - [*] model saved.
+INFO 2022-06-05 01:15:59,185 - [*] epoch: 198, train_loss: 0.5329, validation_rmse: 6.6573, time: 1.9
+INFO 2022-06-05 01:16:02,046 - [*] epoch: 199, train_loss: 2.2782, validation_rmse: 5.9934, time: 2.9
+INFO 2022-06-05 01:16:03,904 - [*] epoch: 200, train_loss: 0.3906, validation_rmse: 4.4939, time: 1.9
+INFO 2022-06-05 01:16:05,820 - [*] epoch: 201, train_loss: 0.2719, validation_rmse: 6.2609, time: 1.9
+INFO 2022-06-05 01:16:07,483 - [*] epoch: 202, train_loss: 0.2952, validation_rmse: 4.2499, time: 1.7
+INFO 2022-06-05 01:16:09,432 - [*] epoch: 203, train_loss: 0.5398, validation_rmse: 3.6835, time: 1.9
+INFO 2022-06-05 01:16:11,213 - [*] epoch: 204, train_loss: 0.1968, validation_rmse: 3.2377, time: 1.8
+INFO 2022-06-05 01:16:11,215 - [*] model saved.
+INFO 2022-06-05 01:16:12,706 - [*] epoch: 205, train_loss: 0.1387, validation_rmse: 3.9465, time: 1.5
+INFO 2022-06-05 01:16:14,301 - [*] epoch: 206, train_loss: 0.1836, validation_rmse: 3.4149, time: 1.6
+INFO 2022-06-05 01:16:16,721 - [*] epoch: 207, train_loss: 1.2972, validation_rmse: 3.9398, time: 2.4
+INFO 2022-06-05 01:16:18,663 - [*] epoch: 208, train_loss: 0.4748, validation_rmse: 4.4557, time: 1.9
+INFO 2022-06-05 01:16:20,583 - [*] epoch: 209, train_loss: 0.3403, validation_rmse: 3.8865, time: 1.9
+INFO 2022-06-05 01:16:22,843 - [*] epoch: 210, train_loss: 0.9060, validation_rmse: 6.4581, time: 2.3
+INFO 2022-06-05 01:16:25,163 - [*] epoch: 211, train_loss: 0.9998, validation_rmse: 6.2209, time: 2.3
+INFO 2022-06-05 01:16:26,882 - [*] epoch: 212, train_loss: 0.2246, validation_rmse: 5.8646, time: 1.7
+INFO 2022-06-05 01:16:28,751 - [*] epoch: 213, train_loss: 0.3394, validation_rmse: 7.4830, time: 1.9
+INFO 2022-06-05 01:16:30,719 - [*] epoch: 214, train_loss: 0.8463, validation_rmse: 3.5930, time: 2.0
+INFO 2022-06-05 01:16:32,833 - [*] epoch: 215, train_loss: 0.6689, validation_rmse: 7.0717, time: 2.1
+INFO 2022-06-05 01:16:36,943 - [*] epoch: 216, train_loss: 3.0787, validation_rmse: 13.2505, time: 4.1
+INFO 2022-06-05 01:16:38,739 - [*] epoch: 217, train_loss: 0.8780, validation_rmse: 6.5462, time: 1.8
+INFO 2022-06-05 01:16:41,481 - [*] epoch: 218, train_loss: 1.3384, validation_rmse: 6.3919, time: 2.7
+INFO 2022-06-05 01:16:45,251 - [*] epoch: 219, train_loss: 3.5663, validation_rmse: 15.8965, time: 3.8
+INFO 2022-06-05 01:16:49,193 - [*] epoch: 220, train_loss: 2.6707, validation_rmse: 8.4454, time: 3.9
+INFO 2022-06-05 01:16:51,163 - [*] epoch: 221, train_loss: 0.4081, validation_rmse: 9.3581, time: 2.0
+INFO 2022-06-05 01:16:54,291 - [*] epoch: 222, train_loss: 1.6067, validation_rmse: 17.6069, time: 3.1
+INFO 2022-06-05 01:16:56,747 - [*] epoch: 223, train_loss: 1.9074, validation_rmse: 6.3784, time: 2.5
+INFO 2022-06-05 01:16:59,473 - [*] epoch: 224, train_loss: 1.5525, validation_rmse: 8.0380, time: 2.7
+INFO 2022-06-05 01:17:02,403 - [*] epoch: 225, train_loss: 1.2037, validation_rmse: 13.6854, time: 2.9
+INFO 2022-06-05 01:17:04,650 - [*] epoch: 226, train_loss: 1.4195, validation_rmse: 8.4460, time: 2.2
+INFO 2022-06-05 01:17:06,670 - [*] epoch: 227, train_loss: 0.7125, validation_rmse: 4.8409, time: 2.0
+INFO 2022-06-05 01:17:08,486 - [*] epoch: 228, train_loss: 0.2299, validation_rmse: 9.4694, time: 1.8
+INFO 2022-06-05 01:17:10,297 - [*] epoch: 229, train_loss: 0.5779, validation_rmse: 5.3462, time: 1.8
+INFO 2022-06-05 01:17:11,924 - [*] epoch: 230, train_loss: 0.1907, validation_rmse: 6.8849, time: 1.6
+INFO 2022-06-05 01:17:13,831 - [*] epoch: 231, train_loss: 0.3306, validation_rmse: 6.9870, time: 1.9
+INFO 2022-06-05 01:17:16,831 - [*] epoch: 232, train_loss: 1.6660, validation_rmse: 2.9303, time: 3.0
+INFO 2022-06-05 01:17:16,833 - [*] model saved.
+INFO 2022-06-05 01:17:18,452 - [*] epoch: 233, train_loss: 0.1544, validation_rmse: 9.2826, time: 1.6
+INFO 2022-06-05 01:17:20,828 - [*] epoch: 234, train_loss: 0.9603, validation_rmse: 5.3780, time: 2.4
+INFO 2022-06-05 01:17:22,533 - [*] epoch: 235, train_loss: 0.2801, validation_rmse: 3.6584, time: 1.7
+INFO 2022-06-05 01:17:24,400 - [*] epoch: 236, train_loss: 0.2775, validation_rmse: 7.5240, time: 1.9
+INFO 2022-06-05 01:17:26,112 - [*] epoch: 237, train_loss: 0.2888, validation_rmse: 2.7240, time: 1.7
+INFO 2022-06-05 01:17:26,113 - [*] model saved.
+INFO 2022-06-05 01:17:28,211 - [*] epoch: 238, train_loss: 0.4801, validation_rmse: 4.3966, time: 2.1
+INFO 2022-06-05 01:17:30,488 - [*] epoch: 239, train_loss: 1.2363, validation_rmse: 5.1955, time: 2.3
+INFO 2022-06-05 01:17:32,776 - [*] epoch: 240, train_loss: 1.0852, validation_rmse: 5.3395, time: 2.3
+INFO 2022-06-05 01:17:34,747 - [*] epoch: 241, train_loss: 0.3978, validation_rmse: 3.2763, time: 2.0
+INFO 2022-06-05 01:17:36,430 - [*] epoch: 242, train_loss: 0.3119, validation_rmse: 5.0115, time: 1.7
+INFO 2022-06-05 01:17:40,567 - [*] epoch: 243, train_loss: 1.8892, validation_rmse: 5.5805, time: 4.1
+INFO 2022-06-05 01:17:43,229 - [*] epoch: 244, train_loss: 1.3749, validation_rmse: 2.6175, time: 2.7
+INFO 2022-06-05 01:17:43,231 - [*] model saved.
+INFO 2022-06-05 01:17:46,660 - [*] epoch: 245, train_loss: 1.5005, validation_rmse: 5.9312, time: 3.4
+INFO 2022-06-05 01:17:48,726 - [*] epoch: 246, train_loss: 0.6903, validation_rmse: 9.6402, time: 2.1
+INFO 2022-06-05 01:17:50,512 - [*] epoch: 247, train_loss: 0.6288, validation_rmse: 5.2201, time: 1.8
+INFO 2022-06-05 01:17:52,373 - [*] epoch: 248, train_loss: 0.3741, validation_rmse: 4.4597, time: 1.9
+INFO 2022-06-05 01:17:54,736 - [*] epoch: 249, train_loss: 0.8379, validation_rmse: 12.2032, time: 2.4
+INFO 2022-06-05 01:17:56,234 - [*] epoch: 250, train_loss: 0.5394, validation_rmse: 3.6639, time: 1.5
+INFO 2022-06-05 01:17:58,495 - [*] epoch: 251, train_loss: 0.7715, validation_rmse: 6.3956, time: 2.3
+INFO 2022-06-05 01:18:00,856 - [*] epoch: 252, train_loss: 0.7566, validation_rmse: 10.2379, time: 2.4
+INFO 2022-06-05 01:18:03,780 - [*] epoch: 253, train_loss: 1.2791, validation_rmse: 2.6257, time: 2.9
+INFO 2022-06-05 01:18:05,621 - [*] epoch: 254, train_loss: 0.2144, validation_rmse: 7.4716, time: 1.8
+INFO 2022-06-05 01:18:07,351 - [*] epoch: 255, train_loss: 0.5295, validation_rmse: 7.5780, time: 1.7
+INFO 2022-06-05 01:18:09,444 - [*] epoch: 256, train_loss: 0.6150, validation_rmse: 2.4469, time: 2.1
+INFO 2022-06-05 01:18:09,445 - [*] model saved.
+INFO 2022-06-05 01:18:11,692 - [*] epoch: 257, train_loss: 0.4716, validation_rmse: 5.5295, time: 2.2
+INFO 2022-06-05 01:18:14,239 - [*] epoch: 258, train_loss: 0.8267, validation_rmse: 6.3061, time: 2.5
+INFO 2022-06-05 01:18:16,726 - [*] epoch: 259, train_loss: 0.9369, validation_rmse: 4.6057, time: 2.5
+INFO 2022-06-05 01:18:18,679 - [*] epoch: 260, train_loss: 0.3372, validation_rmse: 3.1012, time: 2.0
+INFO 2022-06-05 01:18:20,447 - [*] epoch: 261, train_loss: 0.2668, validation_rmse: 4.4747, time: 1.8
+INFO 2022-06-05 01:18:22,351 - [*] epoch: 262, train_loss: 0.2700, validation_rmse: 3.0584, time: 1.9
+INFO 2022-06-05 01:18:23,996 - [*] epoch: 263, train_loss: 0.1346, validation_rmse: 3.0798, time: 1.6
+INFO 2022-06-05 01:18:25,667 - [*] epoch: 264, train_loss: 0.2162, validation_rmse: 2.6922, time: 1.7
+INFO 2022-06-05 01:18:28,494 - [*] epoch: 265, train_loss: 1.0471, validation_rmse: 2.5927, time: 2.8
+INFO 2022-06-05 01:18:30,973 - [*] epoch: 266, train_loss: 0.5401, validation_rmse: 2.7407, time: 2.5
+INFO 2022-06-05 01:18:32,475 - [*] epoch: 267, train_loss: 0.0935, validation_rmse: 4.0505, time: 1.5
+INFO 2022-06-05 01:18:34,052 - [*] epoch: 268, train_loss: 0.1356, validation_rmse: 2.6096, time: 1.6
+INFO 2022-06-05 01:18:35,943 - [*] epoch: 269, train_loss: 0.3759, validation_rmse: 5.7411, time: 1.9
+INFO 2022-06-05 01:18:38,522 - [*] epoch: 270, train_loss: 0.6839, validation_rmse: 8.1212, time: 2.6
+INFO 2022-06-05 01:18:41,279 - [*] epoch: 271, train_loss: 0.8912, validation_rmse: 3.9960, time: 2.8
+INFO 2022-06-05 01:18:42,795 - [*] epoch: 272, train_loss: 0.1693, validation_rmse: 2.5771, time: 1.5
+INFO 2022-06-05 01:18:44,459 - [*] epoch: 273, train_loss: 0.2031, validation_rmse: 7.0415, time: 1.7
+INFO 2022-06-05 01:18:45,841 - [*] epoch: 274, train_loss: 0.2025, validation_rmse: 3.2129, time: 1.4
+INFO 2022-06-05 01:18:47,467 - [*] epoch: 275, train_loss: 0.1463, validation_rmse: 3.1287, time: 1.6
+INFO 2022-06-05 01:18:49,093 - [*] epoch: 276, train_loss: 0.1758, validation_rmse: 5.7173, time: 1.6
+INFO 2022-06-05 01:18:50,938 - [*] epoch: 277, train_loss: 0.3047, validation_rmse: 2.8370, time: 1.8
+INFO 2022-06-05 01:18:52,645 - [*] epoch: 278, train_loss: 0.1420, validation_rmse: 3.3087, time: 1.7
+INFO 2022-06-05 01:18:55,611 - [*] epoch: 279, train_loss: 0.8677, validation_rmse: 2.8747, time: 3.0
+INFO 2022-06-05 01:18:57,262 - [*] epoch: 280, train_loss: 0.1384, validation_rmse: 2.6396, time: 1.7
+INFO 2022-06-05 01:18:59,129 - [*] epoch: 281, train_loss: 0.2701, validation_rmse: 2.7612, time: 1.9
+INFO 2022-06-05 01:19:01,455 - [*] epoch: 282, train_loss: 0.3746, validation_rmse: 2.2680, time: 2.3
+INFO 2022-06-05 01:19:01,456 - [*] model saved.
+INFO 2022-06-05 01:19:03,193 - [*] epoch: 283, train_loss: 0.1337, validation_rmse: 3.3042, time: 1.7
+INFO 2022-06-05 01:19:05,054 - [*] epoch: 284, train_loss: 0.2312, validation_rmse: 2.0103, time: 1.9
+INFO 2022-06-05 01:19:05,056 - [*] model saved.
+INFO 2022-06-05 01:19:07,021 - [*] epoch: 285, train_loss: 0.2371, validation_rmse: 2.8814, time: 2.0
+INFO 2022-06-05 01:19:08,522 - [*] epoch: 286, train_loss: 0.1565, validation_rmse: 5.2664, time: 1.5
+INFO 2022-06-05 01:19:10,577 - [*] epoch: 287, train_loss: 0.3456, validation_rmse: 4.3004, time: 2.1
+INFO 2022-06-05 01:19:12,545 - [*] epoch: 288, train_loss: 0.3173, validation_rmse: 1.9222, time: 2.0
+INFO 2022-06-05 01:19:12,549 - [*] model saved.
+INFO 2022-06-05 01:19:14,042 - [*] epoch: 289, train_loss: 0.0766, validation_rmse: 4.3773, time: 1.5
+INFO 2022-06-05 01:19:15,897 - [*] epoch: 290, train_loss: 0.2087, validation_rmse: 5.0059, time: 1.9
+INFO 2022-06-05 01:19:18,242 - [*] epoch: 291, train_loss: 0.4619, validation_rmse: 5.1413, time: 2.3
+INFO 2022-06-05 01:19:19,809 - [*] epoch: 292, train_loss: 0.1719, validation_rmse: 3.2050, time: 1.6
+INFO 2022-06-05 01:19:21,911 - [*] epoch: 293, train_loss: 0.2748, validation_rmse: 5.7389, time: 2.1
+INFO 2022-06-05 01:19:23,576 - [*] epoch: 294, train_loss: 0.3124, validation_rmse: 8.2419, time: 1.7
+INFO 2022-06-05 01:19:26,444 - [*] epoch: 295, train_loss: 1.1504, validation_rmse: 9.5529, time: 2.9
+INFO 2022-06-05 01:19:28,122 - [*] epoch: 296, train_loss: 0.5312, validation_rmse: 6.4167, time: 1.7
+INFO 2022-06-05 01:19:29,810 - [*] epoch: 297, train_loss: 0.2232, validation_rmse: 3.4754, time: 1.7
+INFO 2022-06-05 01:19:31,638 - [*] epoch: 298, train_loss: 0.2217, validation_rmse: 9.5031, time: 1.8
+INFO 2022-06-05 01:19:33,616 - [*] epoch: 299, train_loss: 0.6041, validation_rmse: 8.8012, time: 2.0
+INFO 2022-06-05 01:19:35,358 - [*] epoch: 300, train_loss: 0.4555, validation_rmse: 3.2275, time: 1.7
+INFO 2022-06-05 01:19:36,880 - [*] epoch: 301, train_loss: 0.1093, validation_rmse: 3.8824, time: 1.5
+INFO 2022-06-05 01:19:38,515 - [*] epoch: 302, train_loss: 0.1313, validation_rmse: 7.0264, time: 1.6
+INFO 2022-06-05 01:19:40,133 - [*] epoch: 303, train_loss: 0.2343, validation_rmse: 2.6327, time: 1.6
+INFO 2022-06-05 01:19:42,895 - [*] epoch: 304, train_loss: 0.5225, validation_rmse: 3.2747, time: 2.8
+INFO 2022-06-05 01:19:44,273 - [*] epoch: 305, train_loss: 0.1310, validation_rmse: 7.8129, time: 1.4
+INFO 2022-06-05 01:19:45,937 - [*] epoch: 306, train_loss: 0.2958, validation_rmse: 5.5040, time: 1.7
+INFO 2022-06-05 01:19:47,707 - [*] epoch: 307, train_loss: 0.2428, validation_rmse: 2.0269, time: 1.8
+INFO 2022-06-05 01:19:50,099 - [*] epoch: 308, train_loss: 0.2301, validation_rmse: 4.0052, time: 2.4
+INFO 2022-06-05 01:19:51,886 - [*] epoch: 309, train_loss: 0.1731, validation_rmse: 4.7921, time: 1.8
+INFO 2022-06-05 01:19:53,268 - [*] epoch: 310, train_loss: 0.1894, validation_rmse: 5.5290, time: 1.4
+INFO 2022-06-05 01:19:56,537 - [*] epoch: 311, train_loss: 1.1169, validation_rmse: 6.6019, time: 3.3
+INFO 2022-06-05 01:19:59,397 - [*] epoch: 312, train_loss: 0.8508, validation_rmse: 2.2986, time: 2.9
+INFO 2022-06-05 01:20:02,206 - [*] epoch: 313, train_loss: 0.6988, validation_rmse: 2.0558, time: 2.8
+INFO 2022-06-05 01:20:03,942 - [*] epoch: 314, train_loss: 0.1603, validation_rmse: 5.5142, time: 1.7
+INFO 2022-06-05 01:20:06,477 - [*] epoch: 315, train_loss: 0.4778, validation_rmse: 7.6797, time: 2.5
+INFO 2022-06-05 01:20:08,411 - [*] epoch: 316, train_loss: 0.5294, validation_rmse: 8.1042, time: 1.9
+INFO 2022-06-05 01:20:10,378 - [*] epoch: 317, train_loss: 0.3897, validation_rmse: 1.8299, time: 2.0
+INFO 2022-06-05 01:20:10,380 - [*] model saved.
+INFO 2022-06-05 01:20:12,036 - [*] epoch: 318, train_loss: 0.1108, validation_rmse: 3.8434, time: 1.7
+INFO 2022-06-05 01:20:13,605 - [*] epoch: 319, train_loss: 0.1262, validation_rmse: 5.2275, time: 1.6
+INFO 2022-06-05 01:20:15,685 - [*] epoch: 320, train_loss: 0.3401, validation_rmse: 5.0164, time: 2.1
+INFO 2022-06-05 01:20:17,008 - [*] epoch: 321, train_loss: 0.1255, validation_rmse: 1.8242, time: 1.3
+INFO 2022-06-05 01:20:17,010 - [*] model saved.
+INFO 2022-06-05 01:20:18,788 - [*] epoch: 322, train_loss: 0.1845, validation_rmse: 1.6375, time: 1.8
+INFO 2022-06-05 01:20:18,790 - [*] model saved.
+INFO 2022-06-05 01:20:20,204 - [*] epoch: 323, train_loss: 0.0883, validation_rmse: 2.6642, time: 1.4
+INFO 2022-06-05 01:20:21,876 - [*] epoch: 324, train_loss: 0.1490, validation_rmse: 2.2469, time: 1.7
+INFO 2022-06-05 01:20:23,883 - [*] epoch: 325, train_loss: 0.2361, validation_rmse: 3.6792, time: 2.0
+INFO 2022-06-05 01:20:25,715 - [*] epoch: 326, train_loss: 0.1881, validation_rmse: 3.1572, time: 1.8
+INFO 2022-06-05 01:20:28,641 - [*] epoch: 327, train_loss: 0.6978, validation_rmse: 2.2695, time: 2.9
+INFO 2022-06-05 01:20:30,257 - [*] epoch: 328, train_loss: 0.1004, validation_rmse: 2.2044, time: 1.6
+INFO 2022-06-05 01:20:32,586 - [*] epoch: 329, train_loss: 0.3036, validation_rmse: 4.6778, time: 2.3
+INFO 2022-06-05 01:20:34,041 - [*] epoch: 330, train_loss: 0.1598, validation_rmse: 5.5581, time: 1.5
+INFO 2022-06-05 01:20:36,330 - [*] epoch: 331, train_loss: 0.4139, validation_rmse: 6.1168, time: 2.3
+INFO 2022-06-05 01:20:38,357 - [*] epoch: 332, train_loss: 0.3432, validation_rmse: 4.8748, time: 2.0
+INFO 2022-06-05 01:20:40,020 - [*] epoch: 333, train_loss: 0.2085, validation_rmse: 2.1873, time: 1.7
+INFO 2022-06-05 01:20:41,783 - [*] epoch: 334, train_loss: 0.1672, validation_rmse: 1.5038, time: 1.8
+INFO 2022-06-05 01:20:41,785 - [*] model saved.
+INFO 2022-06-05 01:20:43,211 - [*] epoch: 335, train_loss: 0.0690, validation_rmse: 2.7754, time: 1.4
+INFO 2022-06-05 01:20:44,975 - [*] epoch: 336, train_loss: 0.1053, validation_rmse: 3.1774, time: 1.8
+INFO 2022-06-05 01:20:47,364 - [*] epoch: 337, train_loss: 0.1908, validation_rmse: 1.6192, time: 2.4
+INFO 2022-06-05 01:20:48,791 - [*] epoch: 338, train_loss: 0.0882, validation_rmse: 5.8007, time: 1.4
+INFO 2022-06-05 01:20:50,112 - [*] epoch: 339, train_loss: 0.1564, validation_rmse: 4.8907, time: 1.3
+INFO 2022-06-05 01:20:51,675 - [*] epoch: 340, train_loss: 0.2122, validation_rmse: 4.1527, time: 1.6
+INFO 2022-06-05 01:20:53,558 - [*] epoch: 341, train_loss: 0.1435, validation_rmse: 1.7663, time: 1.9
+INFO 2022-06-05 01:20:55,201 - [*] epoch: 342, train_loss: 0.0583, validation_rmse: 2.0347, time: 1.6
+INFO 2022-06-05 01:20:57,608 - [*] epoch: 343, train_loss: 0.1941, validation_rmse: 2.6979, time: 2.4
+INFO 2022-06-05 01:21:00,610 - [*] epoch: 344, train_loss: 0.6135, validation_rmse: 4.6586, time: 3.0
+INFO 2022-06-05 01:21:02,290 - [*] epoch: 345, train_loss: 0.1475, validation_rmse: 4.1798, time: 1.7
+INFO 2022-06-05 01:21:04,461 - [*] epoch: 346, train_loss: 0.1784, validation_rmse: 1.5810, time: 2.2
+INFO 2022-06-05 01:21:06,017 - [*] epoch: 347, train_loss: 0.0854, validation_rmse: 1.9953, time: 1.6
+INFO 2022-06-05 01:21:09,000 - [*] epoch: 348, train_loss: 0.4276, validation_rmse: 1.5488, time: 3.0
+INFO 2022-06-05 01:21:10,906 - [*] epoch: 349, train_loss: 0.1062, validation_rmse: 2.3919, time: 1.9
+INFO 2022-06-05 01:21:12,474 - [*] epoch: 350, train_loss: 0.0762, validation_rmse: 2.6914, time: 1.6
+INFO 2022-06-05 01:21:14,134 - [*] epoch: 351, train_loss: 0.1047, validation_rmse: 1.4541, time: 1.7
+INFO 2022-06-05 01:21:14,136 - [*] model saved.
+INFO 2022-06-05 01:21:15,460 - [*] epoch: 352, train_loss: 0.0354, validation_rmse: 1.9684, time: 1.3
+INFO 2022-06-05 01:21:17,374 - [*] epoch: 353, train_loss: 0.1238, validation_rmse: 1.8168, time: 1.9
+INFO 2022-06-05 01:21:19,183 - [*] epoch: 354, train_loss: 0.0935, validation_rmse: 2.3069, time: 1.8
+INFO 2022-06-05 01:21:21,254 - [*] epoch: 355, train_loss: 0.1817, validation_rmse: 2.1891, time: 2.1
+INFO 2022-06-05 01:21:23,908 - [*] epoch: 356, train_loss: 0.2253, validation_rmse: 1.4165, time: 2.7
+INFO 2022-06-05 01:21:23,909 - [*] model saved.
+INFO 2022-06-05 01:21:25,869 - [*] epoch: 357, train_loss: 0.1055, validation_rmse: 1.6067, time: 2.0
+INFO 2022-06-05 01:21:27,859 - [*] epoch: 358, train_loss: 0.1189, validation_rmse: 2.7801, time: 2.0
+INFO 2022-06-05 01:21:29,344 - [*] epoch: 359, train_loss: 0.0614, validation_rmse: 1.9563, time: 1.5
+INFO 2022-06-05 01:21:32,374 - [*] epoch: 360, train_loss: 0.7034, validation_rmse: 1.7323, time: 3.0
+INFO 2022-06-05 01:21:34,745 - [*] epoch: 361, train_loss: 0.1569, validation_rmse: 5.0773, time: 2.4
+INFO 2022-06-05 01:21:36,985 - [*] epoch: 362, train_loss: 0.2353, validation_rmse: 6.8736, time: 2.2
+INFO 2022-06-05 01:21:38,753 - [*] epoch: 363, train_loss: 0.2755, validation_rmse: 6.9659, time: 1.8
+INFO 2022-06-05 01:21:40,406 - [*] epoch: 364, train_loss: 0.2453, validation_rmse: 3.4154, time: 1.7
+INFO 2022-06-05 01:21:42,864 - [*] epoch: 365, train_loss: 0.1761, validation_rmse: 2.2538, time: 2.5
+INFO 2022-06-05 01:21:45,184 - [*] epoch: 366, train_loss: 0.1835, validation_rmse: 5.4305, time: 2.3
+INFO 2022-06-05 01:21:46,726 - [*] epoch: 367, train_loss: 0.1479, validation_rmse: 5.0006, time: 1.5
+INFO 2022-06-05 01:21:48,750 - [*] epoch: 368, train_loss: 0.1850, validation_rmse: 2.9512, time: 2.0
+INFO 2022-06-05 01:21:50,479 - [*] epoch: 369, train_loss: 0.1086, validation_rmse: 3.4603, time: 1.7
+INFO 2022-06-05 01:21:53,544 - [*] epoch: 370, train_loss: 0.3053, validation_rmse: 8.1583, time: 3.1
+INFO 2022-06-05 01:21:55,527 - [*] epoch: 371, train_loss: 0.3128, validation_rmse: 8.9968, time: 2.0
+INFO 2022-06-05 01:21:58,506 - [*] epoch: 372, train_loss: 0.7221, validation_rmse: 14.1707, time: 3.0
+INFO 2022-06-05 01:22:00,462 - [*] epoch: 373, train_loss: 0.8206, validation_rmse: 13.4873, time: 2.0
+INFO 2022-06-05 01:22:01,871 - [*] epoch: 374, train_loss: 0.7333, validation_rmse: 5.0224, time: 1.4
+INFO 2022-06-05 01:22:03,633 - [*] epoch: 375, train_loss: 0.1489, validation_rmse: 6.1087, time: 1.8
+INFO 2022-06-05 01:22:06,046 - [*] epoch: 376, train_loss: 0.2878, validation_rmse: 14.7016, time: 2.4
+INFO 2022-06-05 01:22:08,173 - [*] epoch: 377, train_loss: 0.9217, validation_rmse: 14.7771, time: 2.1
+INFO 2022-06-05 01:22:09,708 - [*] epoch: 378, train_loss: 0.9633, validation_rmse: 10.2253, time: 1.5
+INFO 2022-06-05 01:22:12,549 - [*] epoch: 379, train_loss: 0.7402, validation_rmse: 2.1658, time: 2.8
+INFO 2022-06-05 01:22:13,990 - [*] epoch: 380, train_loss: 0.0567, validation_rmse: 5.4763, time: 1.4
+INFO 2022-06-05 01:22:15,771 - [*] epoch: 381, train_loss: 0.2234, validation_rmse: 11.4571, time: 1.8
+INFO 2022-06-05 01:22:18,531 - [*] epoch: 382, train_loss: 0.8207, validation_rmse: 19.4333, time: 2.8
+INFO 2022-06-05 01:22:20,995 - [*] epoch: 383, train_loss: 1.5663, validation_rmse: 19.2179, time: 2.5
+INFO 2022-06-05 01:22:22,600 - [*] epoch: 384, train_loss: 1.6099, validation_rmse: 11.9883, time: 1.6
+INFO 2022-06-05 01:22:23,966 - [*] epoch: 385, train_loss: 0.5858, validation_rmse: 1.8974, time: 1.4
+INFO 2022-06-05 01:22:25,715 - [*] epoch: 386, train_loss: 0.0826, validation_rmse: 10.5416, time: 1.7
+INFO 2022-06-05 01:22:27,735 - [*] epoch: 387, train_loss: 0.5936, validation_rmse: 17.3244, time: 2.0
+INFO 2022-06-05 01:22:29,276 - [*] epoch: 388, train_loss: 1.1389, validation_rmse: 14.0052, time: 1.5
+INFO 2022-06-05 01:22:31,603 - [*] epoch: 389, train_loss: 1.0784, validation_rmse: 11.5776, time: 2.3
+INFO 2022-06-05 01:22:33,297 - [*] epoch: 390, train_loss: 0.5108, validation_rmse: 1.5573, time: 1.7
+INFO 2022-06-05 01:22:34,916 - [*] epoch: 391, train_loss: 0.0793, validation_rmse: 9.2332, time: 1.6
+INFO 2022-06-05 01:22:38,062 - [*] epoch: 392, train_loss: 0.6704, validation_rmse: 13.6685, time: 3.1
+INFO 2022-06-05 01:22:39,591 - [*] epoch: 393, train_loss: 0.8063, validation_rmse: 12.1477, time: 1.5
+INFO 2022-06-05 01:22:41,491 - [*] epoch: 394, train_loss: 0.7554, validation_rmse: 9.0571, time: 1.9
+INFO 2022-06-05 01:22:44,865 - [*] epoch: 395, train_loss: 0.8702, validation_rmse: 1.9322, time: 3.4
+INFO 2022-06-05 01:22:47,741 - [*] epoch: 396, train_loss: 0.2078, validation_rmse: 10.2610, time: 2.9
+INFO 2022-06-05 01:22:50,940 - [*] epoch: 397, train_loss: 0.6926, validation_rmse: 17.1612, time: 3.2
+INFO 2022-06-05 01:22:52,927 - [*] epoch: 398, train_loss: 1.0931, validation_rmse: 11.9224, time: 2.0
+INFO 2022-06-05 01:22:54,516 - [*] epoch: 399, train_loss: 0.6801, validation_rmse: 3.2813, time: 1.6
+INFO 2022-06-05 01:22:56,351 - [*] epoch: 400, train_loss: 0.1052, validation_rmse: 6.7995, time: 1.8
+INFO 2022-06-05 01:22:58,314 - [*] epoch: 401, train_loss: 0.2614, validation_rmse: 11.9633, time: 2.0
+INFO 2022-06-05 01:22:59,871 - [*] epoch: 402, train_loss: 0.6387, validation_rmse: 11.9171, time: 1.6
+INFO 2022-06-05 01:23:01,425 - [*] epoch: 403, train_loss: 0.5765, validation_rmse: 4.7553, time: 1.6
+INFO 2022-06-05 01:23:03,120 - [*] epoch: 404, train_loss: 0.1709, validation_rmse: 2.0277, time: 1.7
+INFO 2022-06-05 01:23:04,804 - [*] epoch: 405, train_loss: 0.0760, validation_rmse: 7.2407, time: 1.7
+INFO 2022-06-05 01:23:06,457 - [*] epoch: 406, train_loss: 0.2661, validation_rmse: 8.9656, time: 1.7
+INFO 2022-06-05 01:23:07,762 - [*] epoch: 407, train_loss: 0.2666, validation_rmse: 2.4277, time: 1.3
+INFO 2022-06-05 01:23:09,307 - [*] epoch: 408, train_loss: 0.0639, validation_rmse: 7.4038, time: 1.5
+INFO 2022-06-05 01:23:10,754 - [*] epoch: 409, train_loss: 0.2937, validation_rmse: 14.5956, time: 1.4
+INFO 2022-06-05 01:23:12,909 - [*] epoch: 410, train_loss: 1.1115, validation_rmse: 19.0379, time: 2.2
+INFO 2022-06-05 01:23:15,472 - [*] epoch: 411, train_loss: 1.4918, validation_rmse: 12.0995, time: 2.6
+INFO 2022-06-05 01:23:17,047 - [*] epoch: 412, train_loss: 0.5669, validation_rmse: 2.5090, time: 1.6
+INFO 2022-06-05 01:23:19,427 - [*] epoch: 413, train_loss: 0.1522, validation_rmse: 15.3789, time: 2.4
+INFO 2022-06-05 01:23:22,085 - [*] epoch: 414, train_loss: 1.0620, validation_rmse: 20.3439, time: 2.7
+INFO 2022-06-05 01:23:24,716 - [*] epoch: 415, train_loss: 2.0950, validation_rmse: 22.2255, time: 2.6
+INFO 2022-06-05 01:23:26,414 - [*] epoch: 416, train_loss: 1.7712, validation_rmse: 6.9464, time: 1.7
+INFO 2022-06-05 01:23:28,088 - [*] epoch: 417, train_loss: 0.2381, validation_rmse: 10.1619, time: 1.7
+INFO 2022-06-05 01:23:30,206 - [*] epoch: 418, train_loss: 0.5258, validation_rmse: 20.2895, time: 2.1
+INFO 2022-06-05 01:23:31,673 - [*] epoch: 419, train_loss: 1.4774, validation_rmse: 13.4056, time: 1.5
+INFO 2022-06-05 01:23:33,587 - [*] epoch: 420, train_loss: 0.7966, validation_rmse: 1.9267, time: 1.9
+INFO 2022-06-05 01:23:36,465 - [*] epoch: 421, train_loss: 0.2342, validation_rmse: 13.6384, time: 2.9
+INFO 2022-06-05 01:23:38,562 - [*] epoch: 422, train_loss: 0.8254, validation_rmse: 16.7884, time: 2.1
+INFO 2022-06-05 01:23:40,893 - [*] epoch: 423, train_loss: 1.3204, validation_rmse: 9.6158, time: 2.3
+INFO 2022-06-05 01:23:42,950 - [*] epoch: 424, train_loss: 0.4269, validation_rmse: 4.7155, time: 2.1
+INFO 2022-06-05 01:23:44,706 - [*] epoch: 425, train_loss: 0.1323, validation_rmse: 13.1537, time: 1.8
+INFO 2022-06-05 01:23:47,770 - [*] epoch: 426, train_loss: 1.2546, validation_rmse: 13.4134, time: 3.1
+INFO 2022-06-05 01:23:49,946 - [*] epoch: 427, train_loss: 0.7801, validation_rmse: 5.8233, time: 2.2
+INFO 2022-06-05 01:23:51,547 - [*] epoch: 428, train_loss: 0.1953, validation_rmse: 3.3905, time: 1.6
+INFO 2022-06-05 01:23:53,526 - [*] epoch: 429, train_loss: 0.1153, validation_rmse: 9.9132, time: 2.0
+INFO 2022-06-05 01:23:55,008 - [*] epoch: 430, train_loss: 0.5021, validation_rmse: 13.5107, time: 1.5
+INFO 2022-06-05 01:23:56,362 - [*] epoch: 431, train_loss: 0.7582, validation_rmse: 7.5250, time: 1.4
+INFO 2022-06-05 01:23:57,954 - [*] epoch: 432, train_loss: 0.2696, validation_rmse: 2.8236, time: 1.6
+INFO 2022-06-05 01:23:59,388 - [*] epoch: 433, train_loss: 0.0673, validation_rmse: 10.9031, time: 1.4
+INFO 2022-06-05 01:24:01,534 - [*] epoch: 434, train_loss: 0.8587, validation_rmse: 22.1583, time: 2.1
+INFO 2022-06-05 01:24:03,158 - [*] epoch: 435, train_loss: 1.9091, validation_rmse: 19.0883, time: 1.6
+INFO 2022-06-05 01:24:04,844 - [*] epoch: 436, train_loss: 1.7621, validation_rmse: 9.3405, time: 1.7
+INFO 2022-06-05 01:24:06,153 - [*] epoch: 437, train_loss: 0.3112, validation_rmse: 9.1478, time: 1.3
+INFO 2022-06-05 01:24:07,974 - [*] epoch: 438, train_loss: 0.3581, validation_rmse: 18.8655, time: 1.8
+INFO 2022-06-05 01:24:09,670 - [*] epoch: 439, train_loss: 1.6946, validation_rmse: 20.6988, time: 1.7
+INFO 2022-06-05 01:24:11,333 - [*] epoch: 440, train_loss: 1.7491, validation_rmse: 10.1505, time: 1.7
+INFO 2022-06-05 01:24:13,091 - [*] epoch: 441, train_loss: 0.4953, validation_rmse: 5.0504, time: 1.8
+INFO 2022-06-05 01:24:14,908 - [*] epoch: 442, train_loss: 0.1786, validation_rmse: 16.1932, time: 1.8
+INFO 2022-06-05 01:24:16,622 - [*] epoch: 443, train_loss: 1.1427, validation_rmse: 17.8951, time: 1.7
+INFO 2022-06-05 01:24:19,652 - [*] epoch: 444, train_loss: 1.6607, validation_rmse: 10.0270, time: 3.0
+INFO 2022-06-05 01:24:21,031 - [*] epoch: 445, train_loss: 0.3145, validation_rmse: 10.4725, time: 1.4
+INFO 2022-06-05 01:24:22,995 - [*] epoch: 446, train_loss: 0.4505, validation_rmse: 19.4496, time: 2.0
+INFO 2022-06-05 01:24:24,919 - [*] epoch: 447, train_loss: 1.7544, validation_rmse: 16.1860, time: 1.9
+INFO 2022-06-05 01:24:26,498 - [*] epoch: 448, train_loss: 1.0312, validation_rmse: 2.0627, time: 1.6
+INFO 2022-06-05 01:24:28,216 - [*] epoch: 449, train_loss: 0.0653, validation_rmse: 11.3887, time: 1.7
+INFO 2022-06-05 01:24:31,021 - [*] epoch: 450, train_loss: 0.8013, validation_rmse: 17.9833, time: 2.8
+INFO 2022-06-05 01:24:33,164 - [*] epoch: 451, train_loss: 1.4056, validation_rmse: 12.9890, time: 2.1
+INFO 2022-06-05 01:24:35,597 - [*] epoch: 452, train_loss: 0.8426, validation_rmse: 2.0258, time: 2.4
+INFO 2022-06-05 01:24:37,629 - [*] epoch: 453, train_loss: 0.1128, validation_rmse: 10.3700, time: 2.0
+INFO 2022-06-05 01:24:39,358 - [*] epoch: 454, train_loss: 0.4052, validation_rmse: 11.3865, time: 1.7
+INFO 2022-06-05 01:24:41,188 - [*] epoch: 455, train_loss: 0.6205, validation_rmse: 5.9266, time: 1.8
+INFO 2022-06-05 01:24:43,035 - [*] epoch: 456, train_loss: 0.2201, validation_rmse: 2.2559, time: 1.8
+INFO 2022-06-05 01:24:44,527 - [*] epoch: 457, train_loss: 0.0406, validation_rmse: 5.1233, time: 1.5
+INFO 2022-06-05 01:24:45,865 - [*] epoch: 458, train_loss: 0.1587, validation_rmse: 6.2550, time: 1.3
+INFO 2022-06-05 01:24:47,459 - [*] epoch: 459, train_loss: 0.2307, validation_rmse: 5.1470, time: 1.6
+INFO 2022-06-05 01:24:49,186 - [*] epoch: 460, train_loss: 0.1510, validation_rmse: 1.2470, time: 1.7
+INFO 2022-06-05 01:24:49,189 - [*] model saved.
+INFO 2022-06-05 01:24:51,494 - [*] epoch: 461, train_loss: 0.1004, validation_rmse: 2.7792, time: 2.3
+INFO 2022-06-05 01:24:53,098 - [*] epoch: 462, train_loss: 0.0516, validation_rmse: 2.9642, time: 1.6
+INFO 2022-06-05 01:24:54,797 - [*] epoch: 463, train_loss: 0.0685, validation_rmse: 2.3900, time: 1.7
+INFO 2022-06-05 01:24:57,240 - [*] epoch: 464, train_loss: 0.1005, validation_rmse: 1.9288, time: 2.4
+INFO 2022-06-05 01:25:00,439 - [*] epoch: 465, train_loss: 0.2255, validation_rmse: 1.1624, time: 3.2
+INFO 2022-06-05 01:25:00,440 - [*] model saved.
+INFO 2022-06-05 01:25:02,148 - [*] epoch: 466, train_loss: 0.0379, validation_rmse: 1.5583, time: 1.7
+INFO 2022-06-05 01:25:03,629 - [*] epoch: 467, train_loss: 0.0291, validation_rmse: 2.9253, time: 1.5
+INFO 2022-06-05 01:25:06,526 - [*] epoch: 468, train_loss: 0.1317, validation_rmse: 1.9492, time: 2.9
+INFO 2022-06-05 01:25:08,644 - [*] epoch: 469, train_loss: 0.0963, validation_rmse: 1.6832, time: 2.1
+INFO 2022-06-05 01:25:10,956 - [*] epoch: 470, train_loss: 0.0950, validation_rmse: 4.5573, time: 2.3
+INFO 2022-06-05 01:25:12,509 - [*] epoch: 471, train_loss: 0.0889, validation_rmse: 2.7951, time: 1.6
+INFO 2022-06-05 01:25:14,698 - [*] epoch: 472, train_loss: 0.1811, validation_rmse: 3.3999, time: 2.2
+INFO 2022-06-05 01:25:16,947 - [*] epoch: 473, train_loss: 0.1167, validation_rmse: 6.7480, time: 2.2
+INFO 2022-06-05 01:25:18,366 - [*] epoch: 474, train_loss: 0.1461, validation_rmse: 1.9710, time: 1.4
+INFO 2022-06-05 01:25:19,895 - [*] epoch: 475, train_loss: 0.0499, validation_rmse: 1.7877, time: 1.5
+INFO 2022-06-05 01:25:21,275 - [*] epoch: 476, train_loss: 0.0369, validation_rmse: 6.2246, time: 1.4
+INFO 2022-06-05 01:25:22,777 - [*] epoch: 477, train_loss: 0.1155, validation_rmse: 2.5107, time: 1.5
+INFO 2022-06-05 01:25:24,168 - [*] epoch: 478, train_loss: 0.0559, validation_rmse: 1.3111, time: 1.4
+INFO 2022-06-05 01:25:26,282 - [*] epoch: 479, train_loss: 0.0766, validation_rmse: 3.7979, time: 2.1
+INFO 2022-06-05 01:25:28,832 - [*] epoch: 480, train_loss: 0.0980, validation_rmse: 3.1448, time: 2.5
+INFO 2022-06-05 01:25:32,103 - [*] epoch: 481, train_loss: 0.2561, validation_rmse: 2.3131, time: 3.3
+INFO 2022-06-05 01:25:33,882 - [*] epoch: 482, train_loss: 0.0938, validation_rmse: 2.0959, time: 1.8
+INFO 2022-06-05 01:25:35,756 - [*] epoch: 483, train_loss: 0.0726, validation_rmse: 1.7266, time: 1.9
+INFO 2022-06-05 01:25:37,339 - [*] epoch: 484, train_loss: 0.0408, validation_rmse: 1.9007, time: 1.6
+INFO 2022-06-05 01:25:38,717 - [*] epoch: 485, train_loss: 0.0151, validation_rmse: 1.1892, time: 1.4
+INFO 2022-06-05 01:25:40,826 - [*] epoch: 486, train_loss: 0.0616, validation_rmse: 1.1210, time: 2.1
+INFO 2022-06-05 01:25:40,829 - [*] model saved.
+INFO 2022-06-05 01:25:42,872 - [*] epoch: 487, train_loss: 0.0626, validation_rmse: 1.3964, time: 2.0
+INFO 2022-06-05 01:25:45,421 - [*] epoch: 488, train_loss: 0.0809, validation_rmse: 2.8660, time: 2.5
+INFO 2022-06-05 01:25:47,150 - [*] epoch: 489, train_loss: 0.0811, validation_rmse: 3.7675, time: 1.7
+INFO 2022-06-05 01:25:49,186 - [*] epoch: 490, train_loss: 0.0851, validation_rmse: 1.2005, time: 2.0
+INFO 2022-06-05 01:25:51,535 - [*] epoch: 491, train_loss: 0.0746, validation_rmse: 3.9692, time: 2.3
+INFO 2022-06-05 01:25:52,889 - [*] epoch: 492, train_loss: 0.0733, validation_rmse: 5.4917, time: 1.4
+INFO 2022-06-05 01:25:54,221 - [*] epoch: 493, train_loss: 0.1121, validation_rmse: 1.8466, time: 1.3
+INFO 2022-06-05 01:25:55,804 - [*] epoch: 494, train_loss: 0.0334, validation_rmse: 3.0098, time: 1.6
+INFO 2022-06-05 01:25:57,277 - [*] epoch: 495, train_loss: 0.0519, validation_rmse: 5.3201, time: 1.5
+INFO 2022-06-05 01:25:59,213 - [*] epoch: 496, train_loss: 0.1618, validation_rmse: 5.8166, time: 1.9
+INFO 2022-06-05 01:26:02,365 - [*] epoch: 497, train_loss: 0.4339, validation_rmse: 3.8627, time: 3.2
+INFO 2022-06-05 01:26:04,537 - [*] epoch: 498, train_loss: 0.1088, validation_rmse: 1.0966, time: 2.2
+INFO 2022-06-05 01:26:04,541 - [*] model saved.
+INFO 2022-06-05 01:26:06,133 - [*] epoch: 499, train_loss: 0.0198, validation_rmse: 3.6064, time: 1.6
+INFO 2022-06-05 01:26:07,670 - [*] epoch: 500, train_loss: 0.0517, validation_rmse: 2.8732, time: 1.5
+INFO 2022-06-05 01:26:09,601 - [*] epoch: 501, train_loss: 0.0697, validation_rmse: 1.3191, time: 1.9
+INFO 2022-06-05 01:26:10,951 - [*] epoch: 502, train_loss: 0.0140, validation_rmse: 2.2727, time: 1.3
+INFO 2022-06-05 01:26:12,451 - [*] epoch: 503, train_loss: 0.0282, validation_rmse: 2.7003, time: 1.5
+INFO 2022-06-05 01:26:14,161 - [*] epoch: 504, train_loss: 0.0590, validation_rmse: 2.7443, time: 1.7
+INFO 2022-06-05 01:26:15,733 - [*] epoch: 505, train_loss: 0.0589, validation_rmse: 2.0698, time: 1.6
+INFO 2022-06-05 01:26:17,373 - [*] epoch: 506, train_loss: 0.0361, validation_rmse: 1.2226, time: 1.6
+INFO 2022-06-05 01:26:18,720 - [*] epoch: 507, train_loss: 0.0191, validation_rmse: 1.0250, time: 1.3
+INFO 2022-06-05 01:26:18,722 - [*] model saved.
+INFO 2022-06-05 01:26:20,817 - [*] epoch: 508, train_loss: 0.0488, validation_rmse: 1.6111, time: 2.1
+INFO 2022-06-05 01:26:22,178 - [*] epoch: 509, train_loss: 0.0220, validation_rmse: 1.7714, time: 1.4
+INFO 2022-06-05 01:26:24,274 - [*] epoch: 510, train_loss: 0.0569, validation_rmse: 1.7108, time: 2.1
+INFO 2022-06-05 01:26:26,584 - [*] epoch: 511, train_loss: 0.0527, validation_rmse: 1.0341, time: 2.3
+INFO 2022-06-05 01:26:28,662 - [*] epoch: 512, train_loss: 0.0328, validation_rmse: 0.9799, time: 2.1
+INFO 2022-06-05 01:26:28,665 - [*] model saved.
+INFO 2022-06-05 01:26:31,434 - [*] epoch: 513, train_loss: 0.0716, validation_rmse: 1.1890, time: 2.8
+INFO 2022-06-05 01:26:33,232 - [*] epoch: 514, train_loss: 0.0207, validation_rmse: 0.9771, time: 1.8
+INFO 2022-06-05 01:26:33,234 - [*] model saved.
+INFO 2022-06-05 01:26:35,919 - [*] epoch: 515, train_loss: 0.0529, validation_rmse: 1.2647, time: 2.7
+INFO 2022-06-05 01:26:37,801 - [*] epoch: 516, train_loss: 0.0303, validation_rmse: 0.9833, time: 1.9
+INFO 2022-06-05 01:26:39,325 - [*] epoch: 517, train_loss: 0.0173, validation_rmse: 1.0209, time: 1.5
+INFO 2022-06-05 01:26:40,834 - [*] epoch: 518, train_loss: 0.0122, validation_rmse: 1.2070, time: 1.5
+INFO 2022-06-05 01:26:42,387 - [*] epoch: 519, train_loss: 0.0174, validation_rmse: 1.4651, time: 1.6
+INFO 2022-06-05 01:26:45,486 - [*] epoch: 520, train_loss: 0.1000, validation_rmse: 2.0361, time: 3.1
+INFO 2022-06-05 01:26:47,140 - [*] epoch: 521, train_loss: 0.0509, validation_rmse: 4.1743, time: 1.7
+INFO 2022-06-05 01:26:50,693 - [*] epoch: 522, train_loss: 0.4377, validation_rmse: 5.2707, time: 3.6
+INFO 2022-06-05 01:26:52,226 - [*] epoch: 523, train_loss: 0.1341, validation_rmse: 4.1977, time: 1.5
+INFO 2022-06-05 01:26:53,901 - [*] epoch: 524, train_loss: 0.0792, validation_rmse: 1.0234, time: 1.7
+INFO 2022-06-05 01:26:55,600 - [*] epoch: 525, train_loss: 0.0289, validation_rmse: 2.3139, time: 1.7
+INFO 2022-06-05 01:26:57,560 - [*] epoch: 526, train_loss: 0.0530, validation_rmse: 3.2932, time: 2.0
+INFO 2022-06-05 01:26:59,081 - [*] epoch: 527, train_loss: 0.0512, validation_rmse: 2.4487, time: 1.5
+INFO 2022-06-05 01:27:00,732 - [*] epoch: 528, train_loss: 0.0323, validation_rmse: 1.0915, time: 1.6
+INFO 2022-06-05 01:27:02,628 - [*] epoch: 529, train_loss: 0.0415, validation_rmse: 3.3221, time: 1.9
+INFO 2022-06-05 01:27:04,806 - [*] epoch: 530, train_loss: 0.0839, validation_rmse: 3.8714, time: 2.2
+INFO 2022-06-05 01:27:06,978 - [*] epoch: 531, train_loss: 0.1063, validation_rmse: 2.8254, time: 2.2
+INFO 2022-06-05 01:27:10,785 - [*] epoch: 532, train_loss: 0.3048, validation_rmse: 2.5265, time: 3.8
+INFO 2022-06-05 01:27:13,053 - [*] epoch: 533, train_loss: 0.0590, validation_rmse: 1.3925, time: 2.3
+INFO 2022-06-05 01:27:15,057 - [*] epoch: 534, train_loss: 0.0499, validation_rmse: 1.0158, time: 2.0
+INFO 2022-06-05 01:27:18,179 - [*] epoch: 535, train_loss: 0.0676, validation_rmse: 2.2097, time: 3.1
+INFO 2022-06-05 01:27:19,718 - [*] epoch: 536, train_loss: 0.0304, validation_rmse: 2.7839, time: 1.5
+INFO 2022-06-05 01:27:23,107 - [*] epoch: 537, train_loss: 0.2237, validation_rmse: 3.1151, time: 3.4
+INFO 2022-06-05 01:27:25,263 - [*] epoch: 538, train_loss: 0.0778, validation_rmse: 2.4896, time: 2.2
+INFO 2022-06-05 01:27:28,028 - [*] epoch: 539, train_loss: 0.1265, validation_rmse: 2.3866, time: 2.8
+INFO 2022-06-05 01:27:29,902 - [*] epoch: 540, train_loss: 0.0415, validation_rmse: 1.4743, time: 1.9
+INFO 2022-06-05 01:27:31,547 - [*] epoch: 541, train_loss: 0.0251, validation_rmse: 1.0744, time: 1.6
+INFO 2022-06-05 01:27:33,407 - [*] epoch: 542, train_loss: 0.0312, validation_rmse: 1.6494, time: 1.9
+INFO 2022-06-05 01:27:35,156 - [*] epoch: 543, train_loss: 0.0412, validation_rmse: 2.7936, time: 1.7
+INFO 2022-06-05 01:27:36,900 - [*] epoch: 544, train_loss: 0.0508, validation_rmse: 2.7263, time: 1.7
+INFO 2022-06-05 01:27:40,361 - [*] epoch: 545, train_loss: 0.2345, validation_rmse: 3.3216, time: 3.5
+INFO 2022-06-05 01:27:42,136 - [*] epoch: 546, train_loss: 0.0624, validation_rmse: 2.5149, time: 1.8
+INFO 2022-06-05 01:27:43,515 - [*] epoch: 547, train_loss: 0.0324, validation_rmse: 0.8034, time: 1.4
+INFO 2022-06-05 01:27:43,516 - [*] model saved.
+INFO 2022-06-05 01:27:47,020 - [*] epoch: 548, train_loss: 0.1457, validation_rmse: 2.0419, time: 3.5
+INFO 2022-06-05 01:27:50,989 - [*] epoch: 549, train_loss: 0.2986, validation_rmse: 4.0916, time: 4.0
+INFO 2022-06-05 01:27:53,981 - [*] epoch: 550, train_loss: 0.1302, validation_rmse: 4.9575, time: 3.0
+INFO 2022-06-05 01:27:57,475 - [*] epoch: 551, train_loss: 0.2752, validation_rmse: 8.4231, time: 3.5
+INFO 2022-06-05 01:27:59,274 - [*] epoch: 552, train_loss: 0.2817, validation_rmse: 7.5558, time: 1.8
+INFO 2022-06-05 01:28:01,508 - [*] epoch: 553, train_loss: 0.3326, validation_rmse: 8.6552, time: 2.2
+INFO 2022-06-05 01:28:03,066 - [*] epoch: 554, train_loss: 0.3150, validation_rmse: 7.1877, time: 1.6
+INFO 2022-06-05 01:28:04,896 - [*] epoch: 555, train_loss: 0.2362, validation_rmse: 3.5654, time: 1.8
+INFO 2022-06-05 01:28:06,430 - [*] epoch: 556, train_loss: 0.0392, validation_rmse: 4.3099, time: 1.5
+INFO 2022-06-05 01:28:08,249 - [*] epoch: 557, train_loss: 0.1129, validation_rmse: 10.7147, time: 1.8
+INFO 2022-06-05 01:28:10,717 - [*] epoch: 558, train_loss: 0.5468, validation_rmse: 13.4771, time: 2.5
+INFO 2022-06-05 01:28:12,204 - [*] epoch: 559, train_loss: 0.6018, validation_rmse: 6.2430, time: 1.5
+INFO 2022-06-05 01:28:13,823 - [*] epoch: 560, train_loss: 0.1889, validation_rmse: 2.1624, time: 1.6
+INFO 2022-06-05 01:28:15,309 - [*] epoch: 561, train_loss: 0.0476, validation_rmse: 8.7337, time: 1.5
+INFO 2022-06-05 01:28:17,106 - [*] epoch: 562, train_loss: 0.3339, validation_rmse: 12.1432, time: 1.8
+INFO 2022-06-05 01:28:19,258 - [*] epoch: 563, train_loss: 0.7043, validation_rmse: 14.2331, time: 2.2
+INFO 2022-06-05 01:28:21,059 - [*] epoch: 564, train_loss: 0.7869, validation_rmse: 10.3413, time: 1.8
+INFO 2022-06-05 01:28:22,733 - [*] epoch: 565, train_loss: 0.5008, validation_rmse: 4.8874, time: 1.7
+INFO 2022-06-05 01:28:24,160 - [*] epoch: 566, train_loss: 0.0752, validation_rmse: 5.5275, time: 1.4
+INFO 2022-06-05 01:28:25,811 - [*] epoch: 567, train_loss: 0.0891, validation_rmse: 8.5320, time: 1.7
+INFO 2022-06-05 01:28:27,528 - [*] epoch: 568, train_loss: 0.3353, validation_rmse: 8.6562, time: 1.7
+INFO 2022-06-05 01:28:30,879 - [*] epoch: 569, train_loss: 0.6221, validation_rmse: 6.6904, time: 3.4
+INFO 2022-06-05 01:28:32,481 - [*] epoch: 570, train_loss: 0.2268, validation_rmse: 4.1137, time: 1.6
+INFO 2022-06-05 01:28:34,310 - [*] epoch: 571, train_loss: 0.1043, validation_rmse: 0.9897, time: 1.8
+INFO 2022-06-05 01:28:36,613 - [*] epoch: 572, train_loss: 0.0795, validation_rmse: 2.3082, time: 2.3
+INFO 2022-06-05 01:28:38,022 - [*] epoch: 573, train_loss: 0.0289, validation_rmse: 3.5674, time: 1.4
+INFO 2022-06-05 01:28:39,563 - [*] epoch: 574, train_loss: 0.0564, validation_rmse: 2.9278, time: 1.5
+INFO 2022-06-05 01:28:41,231 - [*] epoch: 575, train_loss: 0.0475, validation_rmse: 1.2160, time: 1.7
+INFO 2022-06-05 01:28:43,714 - [*] epoch: 576, train_loss: 0.0941, validation_rmse: 1.2616, time: 2.5
+INFO 2022-06-05 01:28:46,517 - [*] epoch: 577, train_loss: 0.1227, validation_rmse: 3.7790, time: 2.8
+INFO 2022-06-05 01:28:48,309 - [*] epoch: 578, train_loss: 0.0931, validation_rmse: 6.9732, time: 1.8
+INFO 2022-06-05 01:28:50,527 - [*] epoch: 579, train_loss: 0.2677, validation_rmse: 11.2280, time: 2.2
+INFO 2022-06-05 01:28:54,344 - [*] epoch: 580, train_loss: 0.8644, validation_rmse: 21.9238, time: 3.8
+INFO 2022-06-05 01:28:56,456 - [*] epoch: 581, train_loss: 2.0392, validation_rmse: 29.3040, time: 2.1
+INFO 2022-06-05 01:29:00,306 - [*] epoch: 582, train_loss: 4.5846, validation_rmse: 43.6748, time: 3.8
+INFO 2022-06-05 01:29:02,087 - [*] epoch: 583, train_loss: 6.3517, validation_rmse: 29.4752, time: 1.8
+INFO 2022-06-05 01:29:03,706 - [*] epoch: 584, train_loss: 4.1094, validation_rmse: 13.8793, time: 1.6
+INFO 2022-06-05 01:29:06,792 - [*] epoch: 585, train_loss: 0.9752, validation_rmse: 2.9312, time: 3.1
+INFO 2022-06-05 01:29:08,363 - [*] epoch: 586, train_loss: 0.0432, validation_rmse: 14.1557, time: 1.6
+INFO 2022-06-05 01:29:10,750 - [*] epoch: 587, train_loss: 0.9113, validation_rmse: 21.2247, time: 2.4
+INFO 2022-06-05 01:29:14,090 - [*] epoch: 588, train_loss: 1.8521, validation_rmse: 15.5049, time: 3.3
+INFO 2022-06-05 01:29:17,233 - [*] epoch: 589, train_loss: 1.1049, validation_rmse: 6.3208, time: 3.1
+INFO 2022-06-05 01:29:19,586 - [*] epoch: 590, train_loss: 0.1962, validation_rmse: 4.8819, time: 2.4
+INFO 2022-06-05 01:29:23,565 - [*] epoch: 591, train_loss: 0.2471, validation_rmse: 12.0938, time: 4.0
+INFO 2022-06-05 01:29:25,774 - [*] epoch: 592, train_loss: 0.7153, validation_rmse: 17.2653, time: 2.2
+INFO 2022-06-05 01:29:27,518 - [*] epoch: 593, train_loss: 1.1599, validation_rmse: 13.4920, time: 1.7
+INFO 2022-06-05 01:29:29,466 - [*] epoch: 594, train_loss: 0.8265, validation_rmse: 5.3738, time: 1.9
+INFO 2022-06-05 01:29:31,365 - [*] epoch: 595, train_loss: 0.1228, validation_rmse: 6.3661, time: 1.9
+INFO 2022-06-05 01:29:34,108 - [*] epoch: 596, train_loss: 0.2605, validation_rmse: 14.3374, time: 2.7
+INFO 2022-06-05 01:29:35,770 - [*] epoch: 597, train_loss: 0.8837, validation_rmse: 13.4420, time: 1.7
+INFO 2022-06-05 01:29:38,624 - [*] epoch: 598, train_loss: 0.7823, validation_rmse: 6.1338, time: 2.9
+INFO 2022-06-05 01:29:40,889 - [*] epoch: 599, train_loss: 0.2897, validation_rmse: 2.5051, time: 2.3
+INFO 2022-06-05 01:29:42,533 - [*] epoch: 600, train_loss: 0.0526, validation_rmse: 1.5892, time: 1.6
+INFO 2022-06-05 01:29:45,740 - [*] epoch: 601, train_loss: 0.0750, validation_rmse: 5.3758, time: 3.2
+INFO 2022-06-05 01:29:47,647 - [*] epoch: 602, train_loss: 0.1508, validation_rmse: 7.0721, time: 1.9
+INFO 2022-06-05 01:29:49,358 - [*] epoch: 603, train_loss: 0.1901, validation_rmse: 2.7188, time: 1.7
+INFO 2022-06-05 01:29:53,149 - [*] epoch: 604, train_loss: 0.2409, validation_rmse: 3.4861, time: 3.8
+INFO 2022-06-05 01:29:55,298 - [*] epoch: 605, train_loss: 0.1042, validation_rmse: 6.8111, time: 2.1
+INFO 2022-06-05 01:29:57,126 - [*] epoch: 606, train_loss: 0.1805, validation_rmse: 4.6298, time: 1.8
+INFO 2022-06-05 01:29:58,830 - [*] epoch: 607, train_loss: 0.1077, validation_rmse: 0.9964, time: 1.7
+INFO 2022-06-05 01:30:00,520 - [*] epoch: 608, train_loss: 0.0162, validation_rmse: 4.5826, time: 1.7
+INFO 2022-06-05 01:30:03,305 - [*] epoch: 609, train_loss: 0.1752, validation_rmse: 10.5400, time: 2.8
+INFO 2022-06-05 01:30:04,965 - [*] epoch: 610, train_loss: 0.4927, validation_rmse: 11.1446, time: 1.7
+INFO 2022-06-05 01:30:06,662 - [*] epoch: 611, train_loss: 0.4040, validation_rmse: 1.1172, time: 1.7
+INFO 2022-06-05 01:30:08,538 - [*] epoch: 612, train_loss: 0.0349, validation_rmse: 8.1816, time: 1.9
+INFO 2022-06-05 01:30:10,070 - [*] epoch: 613, train_loss: 0.2908, validation_rmse: 12.4945, time: 1.5
+INFO 2022-06-05 01:30:12,008 - [*] epoch: 614, train_loss: 0.6222, validation_rmse: 9.6820, time: 1.9
+INFO 2022-06-05 01:30:14,524 - [*] epoch: 615, train_loss: 0.4739, validation_rmse: 4.5613, time: 2.5
+INFO 2022-06-05 01:30:16,278 - [*] epoch: 616, train_loss: 0.0936, validation_rmse: 3.2903, time: 1.8
+INFO 2022-06-05 01:30:18,169 - [*] epoch: 617, train_loss: 0.0629, validation_rmse: 8.2923, time: 1.9
+INFO 2022-06-05 01:30:19,982 - [*] epoch: 618, train_loss: 0.3555, validation_rmse: 12.7742, time: 1.8
+INFO 2022-06-05 01:30:22,976 - [*] epoch: 619, train_loss: 0.7498, validation_rmse: 13.5327, time: 3.0
+INFO 2022-06-05 01:30:24,660 - [*] epoch: 620, train_loss: 0.7572, validation_rmse: 5.6723, time: 1.7
+INFO 2022-06-05 01:30:26,563 - [*] epoch: 621, train_loss: 0.1501, validation_rmse: 5.1981, time: 1.9
+INFO 2022-06-05 01:30:29,924 - [*] epoch: 622, train_loss: 0.2182, validation_rmse: 12.6944, time: 3.4
+INFO 2022-06-05 01:30:33,477 - [*] epoch: 623, train_loss: 0.8201, validation_rmse: 19.5618, time: 3.6
+INFO 2022-06-05 01:30:35,771 - [*] epoch: 624, train_loss: 1.4627, validation_rmse: 15.0615, time: 2.3
+INFO 2022-06-05 01:30:37,553 - [*] epoch: 625, train_loss: 1.0048, validation_rmse: 5.7704, time: 1.8
+INFO 2022-06-05 01:30:39,081 - [*] epoch: 626, train_loss: 0.1330, validation_rmse: 7.9668, time: 1.5
+INFO 2022-06-05 01:30:40,581 - [*] epoch: 627, train_loss: 0.2456, validation_rmse: 14.3602, time: 1.5
+INFO 2022-06-05 01:30:42,408 - [*] epoch: 628, train_loss: 0.8825, validation_rmse: 12.4849, time: 1.8
+INFO 2022-06-05 01:30:44,385 - [*] epoch: 629, train_loss: 0.6478, validation_rmse: 4.6283, time: 2.0
+INFO 2022-06-05 01:30:46,175 - [*] epoch: 630, train_loss: 0.1097, validation_rmse: 4.2359, time: 1.8
+INFO 2022-06-05 01:30:48,448 - [*] epoch: 631, train_loss: 0.1090, validation_rmse: 10.9246, time: 2.3
+INFO 2022-06-05 01:30:50,648 - [*] epoch: 632, train_loss: 0.4611, validation_rmse: 9.6278, time: 2.2
+INFO 2022-06-05 01:30:52,092 - [*] epoch: 633, train_loss: 0.3695, validation_rmse: 0.9711, time: 1.4
+INFO 2022-06-05 01:30:53,798 - [*] epoch: 634, train_loss: 0.0285, validation_rmse: 6.0649, time: 1.7
+INFO 2022-06-05 01:30:55,547 - [*] epoch: 635, train_loss: 0.1994, validation_rmse: 11.5015, time: 1.7
+INFO 2022-06-05 01:30:57,226 - [*] epoch: 636, train_loss: 0.5499, validation_rmse: 10.1811, time: 1.7
+INFO 2022-06-05 01:30:59,319 - [*] epoch: 637, train_loss: 0.4514, validation_rmse: 4.6558, time: 2.1
+INFO 2022-06-05 01:31:01,143 - [*] epoch: 638, train_loss: 0.0719, validation_rmse: 5.5807, time: 1.8
+INFO 2022-06-05 01:31:02,757 - [*] epoch: 639, train_loss: 0.1067, validation_rmse: 9.4573, time: 1.6
+INFO 2022-06-05 01:31:04,462 - [*] epoch: 640, train_loss: 0.4336, validation_rmse: 10.8981, time: 1.7
+INFO 2022-06-05 01:31:07,935 - [*] epoch: 641, train_loss: 0.5925, validation_rmse: 8.6300, time: 3.5
+INFO 2022-06-05 01:31:10,902 - [*] epoch: 642, train_loss: 0.3646, validation_rmse: 4.1334, time: 3.0
+INFO 2022-06-05 01:31:14,016 - [*] epoch: 643, train_loss: 0.1067, validation_rmse: 2.9274, time: 3.1
+INFO 2022-06-05 01:31:15,717 - [*] epoch: 644, train_loss: 0.0354, validation_rmse: 5.6626, time: 1.7
+INFO 2022-06-05 01:31:18,609 - [*] epoch: 645, train_loss: 0.1699, validation_rmse: 5.5871, time: 2.9
+INFO 2022-06-05 01:31:22,237 - [*] epoch: 646, train_loss: 0.2689, validation_rmse: 5.1318, time: 3.6
+INFO 2022-06-05 01:31:24,212 - [*] epoch: 647, train_loss: 0.1549, validation_rmse: 4.3171, time: 2.0
+INFO 2022-06-05 01:31:25,955 - [*] epoch: 648, train_loss: 0.0760, validation_rmse: 0.7886, time: 1.7
+INFO 2022-06-05 01:31:25,958 - [*] model saved.
+INFO 2022-06-05 01:31:27,931 - [*] epoch: 649, train_loss: 0.0272, validation_rmse: 3.9682, time: 2.0
+INFO 2022-06-05 01:31:29,857 - [*] epoch: 650, train_loss: 0.0675, validation_rmse: 4.1333, time: 1.9
+INFO 2022-06-05 01:31:31,992 - [*] epoch: 651, train_loss: 0.1240, validation_rmse: 5.1527, time: 2.1
+INFO 2022-06-05 01:31:33,403 - [*] epoch: 652, train_loss: 0.0991, validation_rmse: 2.0349, time: 1.4
+INFO 2022-06-05 01:31:34,926 - [*] epoch: 653, train_loss: 0.0207, validation_rmse: 2.9084, time: 1.5
+INFO 2022-06-05 01:31:38,046 - [*] epoch: 654, train_loss: 0.0782, validation_rmse: 4.8226, time: 3.1
+INFO 2022-06-05 01:31:39,776 - [*] epoch: 655, train_loss: 0.1007, validation_rmse: 3.2830, time: 1.7
+INFO 2022-06-05 01:31:41,724 - [*] epoch: 656, train_loss: 0.0636, validation_rmse: 0.9325, time: 1.9
+INFO 2022-06-05 01:31:43,880 - [*] epoch: 657, train_loss: 0.0370, validation_rmse: 2.0470, time: 2.2
+INFO 2022-06-05 01:31:45,561 - [*] epoch: 658, train_loss: 0.0298, validation_rmse: 2.8887, time: 1.7
+INFO 2022-06-05 01:31:48,195 - [*] epoch: 659, train_loss: 0.0796, validation_rmse: 1.3505, time: 2.6
+INFO 2022-06-05 01:31:51,436 - [*] epoch: 660, train_loss: 0.3810, validation_rmse: 3.2345, time: 3.2
+INFO 2022-06-05 01:31:53,334 - [*] epoch: 661, train_loss: 0.0644, validation_rmse: 3.8949, time: 1.9
+INFO 2022-06-05 01:31:55,182 - [*] epoch: 662, train_loss: 0.0729, validation_rmse: 2.5124, time: 1.8
+INFO 2022-06-05 01:31:57,335 - [*] epoch: 663, train_loss: 0.0582, validation_rmse: 0.7565, time: 2.2
+INFO 2022-06-05 01:31:57,336 - [*] model saved.
+INFO 2022-06-05 01:32:00,633 - [*] epoch: 664, train_loss: 0.2374, validation_rmse: 1.7447, time: 3.3
+INFO 2022-06-05 01:32:02,616 - [*] epoch: 665, train_loss: 0.0448, validation_rmse: 2.4011, time: 2.0
+INFO 2022-06-05 01:32:05,828 - [*] epoch: 666, train_loss: 0.1251, validation_rmse: 1.7146, time: 3.2
+INFO 2022-06-05 01:32:08,056 - [*] epoch: 667, train_loss: 0.0576, validation_rmse: 0.8174, time: 2.2
+INFO 2022-06-05 01:32:09,713 - [*] epoch: 668, train_loss: 0.0166, validation_rmse: 2.8102, time: 1.7
+INFO 2022-06-05 01:32:11,967 - [*] epoch: 669, train_loss: 0.1116, validation_rmse: 5.8283, time: 2.3
+INFO 2022-06-05 01:32:14,527 - [*] epoch: 670, train_loss: 0.2014, validation_rmse: 6.0638, time: 2.6
+INFO 2022-06-05 01:32:16,046 - [*] epoch: 671, train_loss: 0.1236, validation_rmse: 0.8425, time: 1.5
+INFO 2022-06-05 01:32:17,555 - [*] epoch: 672, train_loss: 0.0186, validation_rmse: 3.9916, time: 1.5
+INFO 2022-06-05 01:32:19,927 - [*] epoch: 673, train_loss: 0.1055, validation_rmse: 6.4209, time: 2.4
+INFO 2022-06-05 01:32:21,578 - [*] epoch: 674, train_loss: 0.1618, validation_rmse: 4.0467, time: 1.7
+INFO 2022-06-05 01:32:24,043 - [*] epoch: 675, train_loss: 0.1341, validation_rmse: 3.1032, time: 2.5
+INFO 2022-06-05 01:32:25,824 - [*] epoch: 676, train_loss: 0.0615, validation_rmse: 0.8513, time: 1.8
+INFO 2022-06-05 01:32:27,619 - [*] epoch: 677, train_loss: 0.0278, validation_rmse: 1.0636, time: 1.8
+INFO 2022-06-05 01:32:29,543 - [*] epoch: 678, train_loss: 0.0353, validation_rmse: 2.8792, time: 1.9
+INFO 2022-06-05 01:32:31,342 - [*] epoch: 679, train_loss: 0.0592, validation_rmse: 4.0666, time: 1.8
+INFO 2022-06-05 01:32:32,842 - [*] epoch: 680, train_loss: 0.0852, validation_rmse: 4.5456, time: 1.5
+INFO 2022-06-05 01:32:34,620 - [*] epoch: 681, train_loss: 0.0887, validation_rmse: 2.0638, time: 1.8
+INFO 2022-06-05 01:32:37,355 - [*] epoch: 682, train_loss: 0.0576, validation_rmse: 0.7272, time: 2.7
+INFO 2022-06-05 01:32:37,358 - [*] model saved.
+INFO 2022-06-05 01:32:39,587 - [*] epoch: 683, train_loss: 0.0293, validation_rmse: 2.6064, time: 2.2
+INFO 2022-06-05 01:32:41,211 - [*] epoch: 684, train_loss: 0.0347, validation_rmse: 3.0754, time: 1.6
+INFO 2022-06-05 01:32:43,249 - [*] epoch: 685, train_loss: 0.0650, validation_rmse: 3.0535, time: 2.0
+INFO 2022-06-05 01:32:46,388 - [*] epoch: 686, train_loss: 0.0966, validation_rmse: 2.8288, time: 3.1
+INFO 2022-06-05 01:32:49,056 - [*] epoch: 687, train_loss: 0.0617, validation_rmse: 2.0447, time: 2.7
+INFO 2022-06-05 01:32:51,085 - [*] epoch: 688, train_loss: 0.0447, validation_rmse: 1.4460, time: 2.0
+INFO 2022-06-05 01:32:52,778 - [*] epoch: 689, train_loss: 0.0186, validation_rmse: 0.6848, time: 1.7
+INFO 2022-06-05 01:32:52,781 - [*] model saved.
+INFO 2022-06-05 01:32:54,853 - [*] epoch: 690, train_loss: 0.0174, validation_rmse: 1.5074, time: 2.1
+INFO 2022-06-05 01:32:58,244 - [*] epoch: 691, train_loss: 0.0515, validation_rmse: 1.5100, time: 3.4
+INFO 2022-06-05 01:33:02,321 - [*] epoch: 692, train_loss: 0.1235, validation_rmse: 0.8528, time: 4.1
+INFO 2022-06-05 01:33:04,194 - [*] epoch: 693, train_loss: 0.0188, validation_rmse: 1.3031, time: 1.9
+INFO 2022-06-05 01:33:05,637 - [*] epoch: 694, train_loss: 0.0128, validation_rmse: 2.6909, time: 1.4
+INFO 2022-06-05 01:33:07,029 - [*] epoch: 695, train_loss: 0.0222, validation_rmse: 1.2008, time: 1.4
+INFO 2022-06-05 01:33:08,987 - [*] epoch: 696, train_loss: 0.0208, validation_rmse: 1.2550, time: 2.0
+INFO 2022-06-05 01:33:10,427 - [*] epoch: 697, train_loss: 0.0086, validation_rmse: 2.4835, time: 1.4
+INFO 2022-06-05 01:33:12,684 - [*] epoch: 698, train_loss: 0.0408, validation_rmse: 3.1900, time: 2.2
+INFO 2022-06-05 01:33:14,730 - [*] epoch: 699, train_loss: 0.0532, validation_rmse: 2.9456, time: 2.0
+INFO 2022-06-05 01:33:16,306 - [*] epoch: 700, train_loss: 0.0399, validation_rmse: 1.4133, time: 1.6
+INFO 2022-06-05 01:33:18,257 - [*] epoch: 701, train_loss: 0.0305, validation_rmse: 0.7304, time: 1.9
+INFO 2022-06-05 01:33:19,954 - [*] epoch: 702, train_loss: 0.0123, validation_rmse: 1.3083, time: 1.7
+INFO 2022-06-05 01:33:23,103 - [*] epoch: 703, train_loss: 0.0479, validation_rmse: 2.6177, time: 3.1
+INFO 2022-06-05 01:33:25,663 - [*] epoch: 704, train_loss: 0.0768, validation_rmse: 4.2341, time: 2.6
+INFO 2022-06-05 01:33:28,529 - [*] epoch: 705, train_loss: 0.1159, validation_rmse: 6.2470, time: 2.9
+INFO 2022-06-05 01:33:30,424 - [*] epoch: 706, train_loss: 0.1789, validation_rmse: 6.8415, time: 1.9
+INFO 2022-06-05 01:33:32,203 - [*] epoch: 707, train_loss: 0.1805, validation_rmse: 3.8174, time: 1.8
+INFO 2022-06-05 01:33:33,805 - [*] epoch: 708, train_loss: 0.0587, validation_rmse: 1.4584, time: 1.6
+INFO 2022-06-05 01:33:36,551 - [*] epoch: 709, train_loss: 0.0287, validation_rmse: 4.9824, time: 2.7
+INFO 2022-06-05 01:33:38,836 - [*] epoch: 710, train_loss: 0.1201, validation_rmse: 6.7163, time: 2.3
+INFO 2022-06-05 01:33:41,550 - [*] epoch: 711, train_loss: 0.2112, validation_rmse: 7.0075, time: 2.7
+INFO 2022-06-05 01:33:43,019 - [*] epoch: 712, train_loss: 0.1698, validation_rmse: 2.1972, time: 1.5
+INFO 2022-06-05 01:33:44,545 - [*] epoch: 713, train_loss: 0.0246, validation_rmse: 3.7006, time: 1.5
+INFO 2022-06-05 01:33:46,344 - [*] epoch: 714, train_loss: 0.0687, validation_rmse: 7.6353, time: 1.8
+INFO 2022-06-05 01:33:47,899 - [*] epoch: 715, train_loss: 0.1980, validation_rmse: 5.0195, time: 1.6
+INFO 2022-06-05 01:33:49,793 - [*] epoch: 716, train_loss: 0.1238, validation_rmse: 2.0633, time: 1.9
+INFO 2022-06-05 01:33:52,247 - [*] epoch: 717, train_loss: 0.0926, validation_rmse: 2.8437, time: 2.5
+INFO 2022-06-05 01:33:54,260 - [*] epoch: 718, train_loss: 0.0580, validation_rmse: 3.0880, time: 2.0
+INFO 2022-06-05 01:33:56,171 - [*] epoch: 719, train_loss: 0.0758, validation_rmse: 4.1203, time: 1.9
+INFO 2022-06-05 01:33:58,383 - [*] epoch: 720, train_loss: 0.0847, validation_rmse: 3.4891, time: 2.2
+INFO 2022-06-05 01:34:01,982 - [*] epoch: 721, train_loss: 0.3271, validation_rmse: 3.8240, time: 3.6
+INFO 2022-06-05 01:34:03,584 - [*] epoch: 722, train_loss: 0.0670, validation_rmse: 2.8622, time: 1.6
+INFO 2022-06-05 01:34:05,433 - [*] epoch: 723, train_loss: 0.0510, validation_rmse: 1.8321, time: 1.8
+INFO 2022-06-05 01:34:06,841 - [*] epoch: 724, train_loss: 0.0121, validation_rmse: 1.8126, time: 1.4
+INFO 2022-06-05 01:34:08,696 - [*] epoch: 725, train_loss: 0.0407, validation_rmse: 4.4865, time: 1.9
+INFO 2022-06-05 01:34:10,275 - [*] epoch: 726, train_loss: 0.1086, validation_rmse: 7.1708, time: 1.6
+INFO 2022-06-05 01:34:11,987 - [*] epoch: 727, train_loss: 0.1899, validation_rmse: 5.8257, time: 1.7
+INFO 2022-06-05 01:34:15,460 - [*] epoch: 728, train_loss: 0.3174, validation_rmse: 3.9570, time: 3.5
+INFO 2022-06-05 01:34:17,302 - [*] epoch: 729, train_loss: 0.0923, validation_rmse: 2.2130, time: 1.8
+INFO 2022-06-05 01:34:19,328 - [*] epoch: 730, train_loss: 0.0399, validation_rmse: 1.7370, time: 2.0
+INFO 2022-06-05 01:34:21,175 - [*] epoch: 731, train_loss: 0.0183, validation_rmse: 1.7326, time: 1.8
+INFO 2022-06-05 01:34:23,382 - [*] epoch: 732, train_loss: 0.0490, validation_rmse: 5.0775, time: 2.2
+INFO 2022-06-05 01:34:26,000 - [*] epoch: 733, train_loss: 0.1720, validation_rmse: 8.1075, time: 2.6
+INFO 2022-06-05 01:34:27,734 - [*] epoch: 734, train_loss: 0.2231, validation_rmse: 5.7103, time: 1.7
+INFO 2022-06-05 01:34:29,977 - [*] epoch: 735, train_loss: 0.1514, validation_rmse: 2.0308, time: 2.2
+INFO 2022-06-05 01:34:31,599 - [*] epoch: 736, train_loss: 0.0251, validation_rmse: 3.5986, time: 1.6
+INFO 2022-06-05 01:34:33,004 - [*] epoch: 737, train_loss: 0.0325, validation_rmse: 3.6152, time: 1.4
+INFO 2022-06-05 01:34:36,433 - [*] epoch: 738, train_loss: 0.1545, validation_rmse: 3.5983, time: 3.4
+INFO 2022-06-05 01:34:38,419 - [*] epoch: 739, train_loss: 0.0681, validation_rmse: 2.3080, time: 2.0
+INFO 2022-06-05 01:34:40,557 - [*] epoch: 740, train_loss: 0.0534, validation_rmse: 2.6559, time: 2.1
+INFO 2022-06-05 01:34:42,305 - [*] epoch: 741, train_loss: 0.0417, validation_rmse: 1.4102, time: 1.7
+INFO 2022-06-05 01:34:45,946 - [*] epoch: 742, train_loss: 0.1998, validation_rmse: 0.6239, time: 3.6
+INFO 2022-06-05 01:34:45,950 - [*] model saved.
+INFO 2022-06-05 01:34:47,720 - [*] epoch: 743, train_loss: 0.0101, validation_rmse: 2.3381, time: 1.8
+INFO 2022-06-05 01:34:49,617 - [*] epoch: 744, train_loss: 0.0428, validation_rmse: 3.9424, time: 1.9
+INFO 2022-06-05 01:34:52,219 - [*] epoch: 745, train_loss: 0.1114, validation_rmse: 6.9611, time: 2.6
+INFO 2022-06-05 01:34:54,247 - [*] epoch: 746, train_loss: 0.2303, validation_rmse: 9.6297, time: 2.0
+INFO 2022-06-05 01:34:57,052 - [*] epoch: 747, train_loss: 0.3962, validation_rmse: 10.2874, time: 2.8
+INFO 2022-06-05 01:34:58,837 - [*] epoch: 748, train_loss: 0.4371, validation_rmse: 7.8393, time: 1.8
+INFO 2022-06-05 01:35:00,637 - [*] epoch: 749, train_loss: 0.2542, validation_rmse: 3.6911, time: 1.8
+INFO 2022-06-05 01:35:02,296 - [*] epoch: 750, train_loss: 0.0590, validation_rmse: 1.8851, time: 1.7
+INFO 2022-06-05 01:35:04,089 - [*] epoch: 751, train_loss: 0.0265, validation_rmse: 6.3267, time: 1.8
+INFO 2022-06-05 01:35:07,116 - [*] epoch: 752, train_loss: 0.2226, validation_rmse: 12.7335, time: 3.0
+INFO 2022-06-05 01:35:09,148 - [*] epoch: 753, train_loss: 0.7438, validation_rmse: 19.9171, time: 2.0
+INFO 2022-06-05 01:35:10,870 - [*] epoch: 754, train_loss: 1.5995, validation_rmse: 24.1410, time: 1.7
+INFO 2022-06-05 01:35:12,652 - [*] epoch: 755, train_loss: 2.6555, validation_rmse: 29.1425, time: 1.8
+INFO 2022-06-05 01:35:14,900 - [*] epoch: 756, train_loss: 3.1757, validation_rmse: 24.7751, time: 2.2
+INFO 2022-06-05 01:35:17,935 - [*] epoch: 757, train_loss: 3.0673, validation_rmse: 28.9692, time: 3.0
+INFO 2022-06-05 01:35:21,108 - [*] epoch: 758, train_loss: 3.3685, validation_rmse: 27.9606, time: 3.2
+INFO 2022-06-05 01:35:24,388 - [*] epoch: 759, train_loss: 3.7221, validation_rmse: 25.6221, time: 3.3
+INFO 2022-06-05 01:35:26,310 - [*] epoch: 760, train_loss: 2.5012, validation_rmse: 14.0297, time: 1.9
+INFO 2022-06-05 01:35:27,744 - [*] epoch: 761, train_loss: 0.6966, validation_rmse: 6.7142, time: 1.4
+INFO 2022-06-05 01:35:29,658 - [*] epoch: 762, train_loss: 0.2709, validation_rmse: 29.7016, time: 1.9
+INFO 2022-06-05 01:35:32,007 - [*] epoch: 763, train_loss: 3.5652, validation_rmse: 43.8100, time: 2.3
+INFO 2022-06-05 01:35:33,866 - [*] epoch: 764, train_loss: 9.5291, validation_rmse: 51.8648, time: 1.9
+INFO 2022-06-05 01:35:37,195 - [*] epoch: 765, train_loss: 9.4294, validation_rmse: 29.6948, time: 3.3
+INFO 2022-06-05 01:35:39,025 - [*] epoch: 766, train_loss: 3.9722, validation_rmse: 1.8914, time: 1.8
+INFO 2022-06-05 01:35:40,997 - [*] epoch: 767, train_loss: 0.0560, validation_rmse: 28.0346, time: 2.0
+INFO 2022-06-05 01:35:42,946 - [*] epoch: 768, train_loss: 3.0583, validation_rmse: 32.2457, time: 1.9
+INFO 2022-06-05 01:35:45,112 - [*] epoch: 769, train_loss: 4.9141, validation_rmse: 21.8495, time: 2.2
+INFO 2022-06-05 01:35:47,998 - [*] epoch: 770, train_loss: 1.9536, validation_rmse: 4.9927, time: 2.9
+INFO 2022-06-05 01:35:49,519 - [*] epoch: 771, train_loss: 0.2012, validation_rmse: 28.5577, time: 1.5
+INFO 2022-06-05 01:35:51,767 - [*] epoch: 772, train_loss: 4.9473, validation_rmse: 58.3305, time: 2.2
+INFO 2022-06-05 01:35:53,649 - [*] epoch: 773, train_loss: 11.0904, validation_rmse: 32.7097, time: 1.9
+INFO 2022-06-05 01:35:55,704 - [*] epoch: 774, train_loss: 4.8920, validation_rmse: 10.1776, time: 2.1
+INFO 2022-06-05 01:35:57,432 - [*] epoch: 775, train_loss: 0.5163, validation_rmse: 47.0458, time: 1.7
+INFO 2022-06-05 01:35:59,595 - [*] epoch: 776, train_loss: 8.3761, validation_rmse: 42.7501, time: 2.2
+INFO 2022-06-05 01:36:04,465 - [*] epoch: 777, train_loss: 8.3527, validation_rmse: 5.7036, time: 4.9
+INFO 2022-06-05 01:36:06,999 - [*] epoch: 778, train_loss: 0.1740, validation_rmse: 51.2692, time: 2.5
+INFO 2022-06-05 01:36:08,865 - [*] epoch: 779, train_loss: 8.3236, validation_rmse: 29.7219, time: 1.9
+INFO 2022-06-05 01:36:10,425 - [*] epoch: 780, train_loss: 3.5014, validation_rmse: 23.5872, time: 1.6
+INFO 2022-06-05 01:36:12,176 - [*] epoch: 781, train_loss: 2.5028, validation_rmse: 56.3890, time: 1.8
+INFO 2022-06-05 01:36:13,901 - [*] epoch: 782, train_loss: 9.9564, validation_rmse: 13.9853, time: 1.7
+INFO 2022-06-05 01:36:15,642 - [*] epoch: 783, train_loss: 0.8378, validation_rmse: 31.8945, time: 1.7
+INFO 2022-06-05 01:36:19,402 - [*] epoch: 784, train_loss: 5.1913, validation_rmse: 41.9907, time: 3.8
+INFO 2022-06-05 01:36:20,976 - [*] epoch: 785, train_loss: 6.0792, validation_rmse: 3.3263, time: 1.6
+INFO 2022-06-05 01:36:24,362 - [*] epoch: 786, train_loss: 0.2825, validation_rmse: 35.0708, time: 3.4
+INFO 2022-06-05 01:36:27,392 - [*] epoch: 787, train_loss: 6.2437, validation_rmse: 29.8012, time: 3.0
+INFO 2022-06-05 01:36:29,116 - [*] epoch: 788, train_loss: 2.8848, validation_rmse: 22.3057, time: 1.7
+INFO 2022-06-05 01:36:31,177 - [*] epoch: 789, train_loss: 1.9221, validation_rmse: 36.6350, time: 2.1
+INFO 2022-06-05 01:36:33,956 - [*] epoch: 790, train_loss: 7.1414, validation_rmse: 16.7305, time: 2.8
+INFO 2022-06-05 01:36:35,667 - [*] epoch: 791, train_loss: 1.2166, validation_rmse: 23.1936, time: 1.7
+INFO 2022-06-05 01:36:38,577 - [*] epoch: 792, train_loss: 2.6317, validation_rmse: 29.6650, time: 2.9
+INFO 2022-06-05 01:36:40,482 - [*] epoch: 793, train_loss: 4.4085, validation_rmse: 2.7905, time: 1.9
+INFO 2022-06-05 01:36:42,257 - [*] epoch: 794, train_loss: 0.1398, validation_rmse: 32.3353, time: 1.8
+INFO 2022-06-05 01:36:43,940 - [*] epoch: 795, train_loss: 3.8883, validation_rmse: 17.6839, time: 1.7
+INFO 2022-06-05 01:36:47,532 - [*] epoch: 796, train_loss: 2.2383, validation_rmse: 17.1115, time: 3.6
+INFO 2022-06-05 01:36:50,597 - [*] epoch: 797, train_loss: 1.5085, validation_rmse: 21.6254, time: 3.1
+INFO 2022-06-05 01:36:52,751 - [*] epoch: 798, train_loss: 2.0923, validation_rmse: 4.4175, time: 2.2
+INFO 2022-06-05 01:36:55,360 - [*] epoch: 799, train_loss: 0.3142, validation_rmse: 18.8943, time: 2.6
+INFO 2022-06-05 01:36:58,254 - [*] epoch: 800, train_loss: 1.7404, validation_rmse: 3.6953, time: 2.9
+INFO 2022-06-05 01:37:00,377 - [*] epoch: 801, train_loss: 0.2523, validation_rmse: 13.8223, time: 2.1
+INFO 2022-06-05 01:37:01,920 - [*] epoch: 802, train_loss: 0.5974, validation_rmse: 4.6452, time: 1.5
+INFO 2022-06-05 01:37:05,568 - [*] epoch: 803, train_loss: 0.7680, validation_rmse: 10.7866, time: 3.6
+INFO 2022-06-05 01:37:07,634 - [*] epoch: 804, train_loss: 0.6196, validation_rmse: 11.7057, time: 2.1
+INFO 2022-06-05 01:37:09,464 - [*] epoch: 805, train_loss: 0.5050, validation_rmse: 6.1472, time: 1.8
+INFO 2022-06-05 01:37:11,233 - [*] epoch: 806, train_loss: 0.1541, validation_rmse: 10.6151, time: 1.8
+INFO 2022-06-05 01:37:12,952 - [*] epoch: 807, train_loss: 0.5150, validation_rmse: 1.3364, time: 1.7
+INFO 2022-06-05 01:37:14,980 - [*] epoch: 808, train_loss: 0.0734, validation_rmse: 10.7384, time: 2.0
+INFO 2022-06-05 01:37:16,606 - [*] epoch: 809, train_loss: 0.4609, validation_rmse: 3.3625, time: 1.6
+INFO 2022-06-05 01:37:18,513 - [*] epoch: 810, train_loss: 0.0344, validation_rmse: 9.5254, time: 1.9
+INFO 2022-06-05 01:37:22,582 - [*] epoch: 811, train_loss: 0.5335, validation_rmse: 7.0056, time: 4.1
+INFO 2022-06-05 01:37:24,984 - [*] epoch: 812, train_loss: 0.2887, validation_rmse: 5.5955, time: 2.4
+INFO 2022-06-05 01:37:28,362 - [*] epoch: 813, train_loss: 0.2712, validation_rmse: 9.8571, time: 3.4
+INFO 2022-06-05 01:37:30,255 - [*] epoch: 814, train_loss: 0.5885, validation_rmse: 3.6112, time: 1.9
+INFO 2022-06-05 01:37:32,164 - [*] epoch: 815, train_loss: 0.0887, validation_rmse: 9.4054, time: 1.9
+INFO 2022-06-05 01:37:33,942 - [*] epoch: 816, train_loss: 0.3677, validation_rmse: 6.7234, time: 1.8
+INFO 2022-06-05 01:37:35,775 - [*] epoch: 817, train_loss: 0.1817, validation_rmse: 6.6873, time: 1.8
+INFO 2022-06-05 01:37:39,004 - [*] epoch: 818, train_loss: 0.2329, validation_rmse: 7.9654, time: 3.2
+INFO 2022-06-05 01:37:40,579 - [*] epoch: 819, train_loss: 0.2388, validation_rmse: 4.6066, time: 1.6
+INFO 2022-06-05 01:37:43,810 - [*] epoch: 820, train_loss: 0.3078, validation_rmse: 10.2211, time: 3.2
+INFO 2022-06-05 01:37:45,495 - [*] epoch: 821, train_loss: 0.4519, validation_rmse: 1.1902, time: 1.7
+INFO 2022-06-05 01:37:49,153 - [*] epoch: 822, train_loss: 0.6426, validation_rmse: 6.8145, time: 3.7
+INFO 2022-06-05 01:37:51,540 - [*] epoch: 823, train_loss: 0.2502, validation_rmse: 3.8296, time: 2.4
+INFO 2022-06-05 01:37:53,820 - [*] epoch: 824, train_loss: 0.2261, validation_rmse: 1.0415, time: 2.3
+INFO 2022-06-05 01:37:55,465 - [*] epoch: 825, train_loss: 0.0176, validation_rmse: 3.6396, time: 1.6
+INFO 2022-06-05 01:37:57,847 - [*] epoch: 826, train_loss: 0.1235, validation_rmse: 2.1718, time: 2.4
+INFO 2022-06-05 01:37:59,493 - [*] epoch: 827, train_loss: 0.0429, validation_rmse: 1.8758, time: 1.6
+INFO 2022-06-05 01:38:01,001 - [*] epoch: 828, train_loss: 0.0195, validation_rmse: 2.1628, time: 1.5
+INFO 2022-06-05 01:38:04,093 - [*] epoch: 829, train_loss: 0.2256, validation_rmse: 2.1625, time: 3.1
+INFO 2022-06-05 01:38:06,762 - [*] epoch: 830, train_loss: 0.0776, validation_rmse: 1.3548, time: 2.7
+INFO 2022-06-05 01:38:09,882 - [*] epoch: 831, train_loss: 0.1468, validation_rmse: 2.2045, time: 3.1
+INFO 2022-06-05 01:38:11,665 - [*] epoch: 832, train_loss: 0.0290, validation_rmse: 1.2932, time: 1.8
+INFO 2022-06-05 01:38:14,785 - [*] epoch: 833, train_loss: 0.1789, validation_rmse: 4.3797, time: 3.1
+INFO 2022-06-05 01:38:18,184 - [*] epoch: 834, train_loss: 0.6567, validation_rmse: 0.8408, time: 3.4
+INFO 2022-06-05 01:38:19,723 - [*] epoch: 835, train_loss: 0.0098, validation_rmse: 3.3609, time: 1.5
+INFO 2022-06-05 01:38:21,626 - [*] epoch: 836, train_loss: 0.0574, validation_rmse: 1.4344, time: 1.9
+INFO 2022-06-05 01:38:24,882 - [*] epoch: 837, train_loss: 0.4560, validation_rmse: 1.9796, time: 3.3
+INFO 2022-06-05 01:38:26,498 - [*] epoch: 838, train_loss: 0.0332, validation_rmse: 2.8935, time: 1.6
+INFO 2022-06-05 01:38:29,104 - [*] epoch: 839, train_loss: 0.1613, validation_rmse: 1.6897, time: 2.6
+INFO 2022-06-05 01:38:30,471 - [*] epoch: 840, train_loss: 0.0156, validation_rmse: 3.6084, time: 1.4
+INFO 2022-06-05 01:38:32,118 - [*] epoch: 841, train_loss: 0.0895, validation_rmse: 2.1400, time: 1.6
+INFO 2022-06-05 01:38:34,358 - [*] epoch: 842, train_loss: 0.1065, validation_rmse: 2.9006, time: 2.2
+INFO 2022-06-05 01:38:36,506 - [*] epoch: 843, train_loss: 0.1053, validation_rmse: 1.7700, time: 2.1
+INFO 2022-06-05 01:38:38,259 - [*] epoch: 844, train_loss: 0.0499, validation_rmse: 0.8127, time: 1.8
+INFO 2022-06-05 01:38:40,166 - [*] epoch: 845, train_loss: 0.0311, validation_rmse: 3.4193, time: 1.9
+INFO 2022-06-05 01:38:42,185 - [*] epoch: 846, train_loss: 0.0611, validation_rmse: 1.6131, time: 2.0
+INFO 2022-06-05 01:38:43,814 - [*] epoch: 847, train_loss: 0.0235, validation_rmse: 2.1832, time: 1.6
+INFO 2022-06-05 01:38:46,439 - [*] epoch: 848, train_loss: 0.1321, validation_rmse: 3.7647, time: 2.6
+INFO 2022-06-05 01:38:49,136 - [*] epoch: 849, train_loss: 0.1462, validation_rmse: 0.9576, time: 2.7
+INFO 2022-06-05 01:38:51,027 - [*] epoch: 850, train_loss: 0.0365, validation_rmse: 2.6609, time: 1.9
+INFO 2022-06-05 01:38:53,723 - [*] epoch: 851, train_loss: 0.0914, validation_rmse: 1.2931, time: 2.7
+INFO 2022-06-05 01:38:55,570 - [*] epoch: 852, train_loss: 0.0326, validation_rmse: 2.3063, time: 1.8
+INFO 2022-06-05 01:38:57,087 - [*] epoch: 853, train_loss: 0.0244, validation_rmse: 1.4045, time: 1.5
+INFO 2022-06-05 01:38:58,944 - [*] epoch: 854, train_loss: 0.0316, validation_rmse: 1.4657, time: 1.9
+INFO 2022-06-05 01:39:01,822 - [*] epoch: 855, train_loss: 0.0756, validation_rmse: 1.5116, time: 2.9
+INFO 2022-06-05 01:39:03,727 - [*] epoch: 856, train_loss: 0.0332, validation_rmse: 0.9455, time: 1.9
+INFO 2022-06-05 01:39:05,642 - [*] epoch: 857, train_loss: 0.0204, validation_rmse: 1.3127, time: 1.9
+INFO 2022-06-05 01:39:07,537 - [*] epoch: 858, train_loss: 0.0261, validation_rmse: 0.9900, time: 1.9
+INFO 2022-06-05 01:39:10,425 - [*] epoch: 859, train_loss: 0.0430, validation_rmse: 0.8159, time: 2.9
+INFO 2022-06-05 01:39:12,737 - [*] epoch: 860, train_loss: 0.0256, validation_rmse: 1.1851, time: 2.3
+INFO 2022-06-05 01:39:14,593 - [*] epoch: 861, train_loss: 0.0226, validation_rmse: 1.2332, time: 1.9
+INFO 2022-06-05 01:39:17,728 - [*] epoch: 862, train_loss: 0.1398, validation_rmse: 0.8540, time: 3.1
+INFO 2022-06-05 01:39:20,715 - [*] epoch: 863, train_loss: 0.0773, validation_rmse: 0.7807, time: 3.0
+INFO 2022-06-05 01:39:22,827 - [*] epoch: 864, train_loss: 0.0371, validation_rmse: 1.7544, time: 2.1
+INFO 2022-06-05 01:39:25,436 - [*] epoch: 865, train_loss: 0.0353, validation_rmse: 1.2324, time: 2.6
+INFO 2022-06-05 01:39:28,244 - [*] epoch: 866, train_loss: 0.0847, validation_rmse: 0.8983, time: 2.8
+INFO 2022-06-05 01:39:30,807 - [*] epoch: 867, train_loss: 0.0289, validation_rmse: 0.9649, time: 2.6
+INFO 2022-06-05 01:39:32,321 - [*] epoch: 868, train_loss: 0.0084, validation_rmse: 1.2652, time: 1.5
+INFO 2022-06-05 01:39:34,365 - [*] epoch: 869, train_loss: 0.0294, validation_rmse: 0.9403, time: 2.0
+INFO 2022-06-05 01:39:35,905 - [*] epoch: 870, train_loss: 0.0112, validation_rmse: 0.8428, time: 1.5
+INFO 2022-06-05 01:39:38,364 - [*] epoch: 871, train_loss: 0.0195, validation_rmse: 1.2463, time: 2.5
+INFO 2022-06-05 01:39:41,783 - [*] epoch: 872, train_loss: 0.2384, validation_rmse: 0.8897, time: 3.4
+INFO 2022-06-05 01:39:43,559 - [*] epoch: 873, train_loss: 0.0198, validation_rmse: 2.2394, time: 1.8
+INFO 2022-06-05 01:39:45,679 - [*] epoch: 874, train_loss: 0.0410, validation_rmse: 1.8684, time: 2.1
+INFO 2022-06-05 01:39:48,033 - [*] epoch: 875, train_loss: 0.0682, validation_rmse: 1.3303, time: 2.4
+INFO 2022-06-05 01:39:50,497 - [*] epoch: 876, train_loss: 0.0352, validation_rmse: 0.7843, time: 2.5
+INFO 2022-06-05 01:39:53,034 - [*] epoch: 877, train_loss: 0.0159, validation_rmse: 1.5021, time: 2.5
+INFO 2022-06-05 01:39:54,686 - [*] epoch: 878, train_loss: 0.0219, validation_rmse: 1.9730, time: 1.7
+INFO 2022-06-05 01:39:56,283 - [*] epoch: 879, train_loss: 0.0187, validation_rmse: 0.7508, time: 1.6
+INFO 2022-06-05 01:39:58,198 - [*] epoch: 880, train_loss: 0.0154, validation_rmse: 1.0923, time: 1.9
+INFO 2022-06-05 01:40:00,261 - [*] epoch: 881, train_loss: 0.0212, validation_rmse: 0.8327, time: 2.1
+INFO 2022-06-05 01:40:02,275 - [*] epoch: 882, train_loss: 0.0183, validation_rmse: 1.6730, time: 2.0
+INFO 2022-06-05 01:40:04,471 - [*] epoch: 883, train_loss: 0.0247, validation_rmse: 1.5236, time: 2.2
+INFO 2022-06-05 01:40:06,403 - [*] epoch: 884, train_loss: 0.0187, validation_rmse: 0.9646, time: 1.9
+INFO 2022-06-05 01:40:09,169 - [*] epoch: 885, train_loss: 0.0284, validation_rmse: 1.2020, time: 2.8
+INFO 2022-06-05 01:40:10,898 - [*] epoch: 886, train_loss: 0.0132, validation_rmse: 0.8826, time: 1.7
+INFO 2022-06-05 01:40:13,983 - [*] epoch: 887, train_loss: 0.0767, validation_rmse: 2.0794, time: 3.1
+INFO 2022-06-05 01:40:15,731 - [*] epoch: 888, train_loss: 0.0315, validation_rmse: 1.6279, time: 1.7
+INFO 2022-06-05 01:40:17,518 - [*] epoch: 889, train_loss: 0.0189, validation_rmse: 1.2663, time: 1.8
+INFO 2022-06-05 01:40:19,051 - [*] epoch: 890, train_loss: 0.0067, validation_rmse: 1.5420, time: 1.5
+INFO 2022-06-05 01:40:20,553 - [*] epoch: 891, train_loss: 0.0121, validation_rmse: 0.6963, time: 1.5
+INFO 2022-06-05 01:40:23,454 - [*] epoch: 892, train_loss: 0.0445, validation_rmse: 2.1886, time: 2.9
+INFO 2022-06-05 01:40:24,942 - [*] epoch: 893, train_loss: 0.0204, validation_rmse: 1.0683, time: 1.5
+INFO 2022-06-05 01:40:27,614 - [*] epoch: 894, train_loss: 0.0307, validation_rmse: 1.4241, time: 2.7
+INFO 2022-06-05 01:40:29,454 - [*] epoch: 895, train_loss: 0.0248, validation_rmse: 2.9924, time: 1.8
+INFO 2022-06-05 01:40:31,215 - [*] epoch: 896, train_loss: 0.0364, validation_rmse: 0.7055, time: 1.8
+INFO 2022-06-05 01:40:32,726 - [*] epoch: 897, train_loss: 0.0056, validation_rmse: 2.1606, time: 1.5
+INFO 2022-06-05 01:40:34,609 - [*] epoch: 898, train_loss: 0.0418, validation_rmse: 2.6197, time: 1.9
+INFO 2022-06-05 01:40:36,530 - [*] epoch: 899, train_loss: 0.0293, validation_rmse: 1.2360, time: 1.9
+INFO 2022-06-05 01:40:38,321 - [*] epoch: 900, train_loss: 0.0155, validation_rmse: 2.0687, time: 1.8
+INFO 2022-06-05 01:40:40,902 - [*] epoch: 901, train_loss: 0.0416, validation_rmse: 0.7062, time: 2.6
+INFO 2022-06-05 01:40:42,769 - [*] epoch: 902, train_loss: 0.0182, validation_rmse: 1.9883, time: 1.9
+INFO 2022-06-05 01:40:45,109 - [*] epoch: 903, train_loss: 0.0472, validation_rmse: 2.1282, time: 2.3
+INFO 2022-06-05 01:40:47,019 - [*] epoch: 904, train_loss: 0.0381, validation_rmse: 1.3188, time: 1.9
+INFO 2022-06-05 01:40:48,813 - [*] epoch: 905, train_loss: 0.0143, validation_rmse: 1.9168, time: 1.8
+INFO 2022-06-05 01:40:50,312 - [*] epoch: 906, train_loss: 0.0225, validation_rmse: 2.8309, time: 1.5
+INFO 2022-06-05 01:40:52,237 - [*] epoch: 907, train_loss: 0.0476, validation_rmse: 1.3297, time: 1.9
+INFO 2022-06-05 01:40:53,848 - [*] epoch: 908, train_loss: 0.0122, validation_rmse: 2.7364, time: 1.6
+INFO 2022-06-05 01:40:57,073 - [*] epoch: 909, train_loss: 0.2399, validation_rmse: 5.0553, time: 3.2
+INFO 2022-06-05 01:40:59,420 - [*] epoch: 910, train_loss: 0.1481, validation_rmse: 3.5440, time: 2.3
+INFO 2022-06-05 01:41:01,031 - [*] epoch: 911, train_loss: 0.0490, validation_rmse: 2.9450, time: 1.6
+INFO 2022-06-05 01:41:03,943 - [*] epoch: 912, train_loss: 0.0698, validation_rmse: 5.5456, time: 2.9
+INFO 2022-06-05 01:41:05,384 - [*] epoch: 913, train_loss: 0.1141, validation_rmse: 0.6437, time: 1.4
+INFO 2022-06-05 01:41:07,138 - [*] epoch: 914, train_loss: 0.0073, validation_rmse: 5.3649, time: 1.8
+INFO 2022-06-05 01:41:08,806 - [*] epoch: 915, train_loss: 0.1351, validation_rmse: 5.4078, time: 1.7
+INFO 2022-06-05 01:41:10,699 - [*] epoch: 916, train_loss: 0.1467, validation_rmse: 0.8771, time: 1.9
+INFO 2022-06-05 01:41:12,220 - [*] epoch: 917, train_loss: 0.0094, validation_rmse: 4.1506, time: 1.5
+INFO 2022-06-05 01:41:14,223 - [*] epoch: 918, train_loss: 0.0862, validation_rmse: 4.4051, time: 2.0
+INFO 2022-06-05 01:41:16,632 - [*] epoch: 919, train_loss: 0.0882, validation_rmse: 1.3360, time: 2.4
+INFO 2022-06-05 01:41:18,488 - [*] epoch: 920, train_loss: 0.0216, validation_rmse: 5.8818, time: 1.9
+INFO 2022-06-05 01:41:20,015 - [*] epoch: 921, train_loss: 0.1349, validation_rmse: 2.7691, time: 1.5
+INFO 2022-06-05 01:41:21,407 - [*] epoch: 922, train_loss: 0.0286, validation_rmse: 3.8858, time: 1.4
+INFO 2022-06-05 01:41:22,970 - [*] epoch: 923, train_loss: 0.0614, validation_rmse: 4.9619, time: 1.6
+INFO 2022-06-05 01:41:25,806 - [*] epoch: 924, train_loss: 0.1257, validation_rmse: 0.9572, time: 2.8
+INFO 2022-06-05 01:41:28,291 - [*] epoch: 925, train_loss: 0.0233, validation_rmse: 4.5259, time: 2.5
+INFO 2022-06-05 01:41:30,994 - [*] epoch: 926, train_loss: 0.0921, validation_rmse: 3.3962, time: 2.7
+INFO 2022-06-05 01:41:33,011 - [*] epoch: 927, train_loss: 0.0656, validation_rmse: 0.8755, time: 2.0
+INFO 2022-06-05 01:41:35,026 - [*] epoch: 928, train_loss: 0.0203, validation_rmse: 3.0298, time: 2.0
+INFO 2022-06-05 01:41:36,974 - [*] epoch: 929, train_loss: 0.0584, validation_rmse: 3.2009, time: 1.9
+INFO 2022-06-05 01:41:38,726 - [*] epoch: 930, train_loss: 0.0410, validation_rmse: 1.3877, time: 1.8
+INFO 2022-06-05 01:41:40,436 - [*] epoch: 931, train_loss: 0.0115, validation_rmse: 3.6365, time: 1.7
+INFO 2022-06-05 01:41:42,693 - [*] epoch: 932, train_loss: 0.1000, validation_rmse: 4.1067, time: 2.3
+INFO 2022-06-05 01:41:44,655 - [*] epoch: 933, train_loss: 0.0634, validation_rmse: 1.3698, time: 2.0
+INFO 2022-06-05 01:41:47,770 - [*] epoch: 934, train_loss: 0.0931, validation_rmse: 4.4366, time: 3.1
+INFO 2022-06-05 01:41:51,231 - [*] epoch: 935, train_loss: 0.2072, validation_rmse: 2.1928, time: 3.5
+INFO 2022-06-05 01:41:52,796 - [*] epoch: 936, train_loss: 0.0236, validation_rmse: 2.4705, time: 1.6
+INFO 2022-06-05 01:41:54,773 - [*] epoch: 937, train_loss: 0.0285, validation_rmse: 2.6251, time: 2.0
+INFO 2022-06-05 01:41:57,283 - [*] epoch: 938, train_loss: 0.0660, validation_rmse: 0.7702, time: 2.5
+INFO 2022-06-05 01:41:59,611 - [*] epoch: 939, train_loss: 0.0259, validation_rmse: 2.5183, time: 2.3
+INFO 2022-06-05 01:42:01,690 - [*] epoch: 940, train_loss: 0.0385, validation_rmse: 2.5594, time: 2.1
+INFO 2022-06-05 01:42:04,739 - [*] epoch: 941, train_loss: 0.0444, validation_rmse: 0.8771, time: 3.0
+INFO 2022-06-05 01:42:08,184 - [*] epoch: 942, train_loss: 0.0919, validation_rmse: 1.6743, time: 3.4
+INFO 2022-06-05 01:42:10,450 - [*] epoch: 943, train_loss: 0.0296, validation_rmse: 1.3905, time: 2.3
+INFO 2022-06-05 01:42:12,436 - [*] epoch: 944, train_loss: 0.0170, validation_rmse: 0.7133, time: 2.0
+INFO 2022-06-05 01:42:14,514 - [*] epoch: 945, train_loss: 0.0132, validation_rmse: 0.9487, time: 2.1
+INFO 2022-06-05 01:42:16,799 - [*] epoch: 946, train_loss: 0.0287, validation_rmse: 2.2837, time: 2.3
+INFO 2022-06-05 01:42:19,401 - [*] epoch: 947, train_loss: 0.0446, validation_rmse: 1.0031, time: 2.6
+INFO 2022-06-05 01:42:21,099 - [*] epoch: 948, train_loss: 0.0121, validation_rmse: 1.2515, time: 1.7
+INFO 2022-06-05 01:42:24,684 - [*] epoch: 949, train_loss: 0.2992, validation_rmse: 3.4842, time: 3.6
+INFO 2022-06-05 01:42:27,863 - [*] epoch: 950, train_loss: 0.1340, validation_rmse: 1.2049, time: 3.2
+INFO 2022-06-05 01:42:29,393 - [*] epoch: 951, train_loss: 0.0101, validation_rmse: 2.0391, time: 1.5
+INFO 2022-06-05 01:42:31,539 - [*] epoch: 952, train_loss: 0.0395, validation_rmse: 2.7601, time: 2.1
+INFO 2022-06-05 01:42:33,103 - [*] epoch: 953, train_loss: 0.0303, validation_rmse: 0.7321, time: 1.6
+INFO 2022-06-05 01:42:34,841 - [*] epoch: 954, train_loss: 0.0092, validation_rmse: 2.5854, time: 1.7
+INFO 2022-06-05 01:42:36,543 - [*] epoch: 955, train_loss: 0.0366, validation_rmse: 1.2995, time: 1.7
+INFO 2022-06-05 01:42:39,379 - [*] epoch: 956, train_loss: 0.0721, validation_rmse: 1.4674, time: 2.8
+INFO 2022-06-05 01:42:42,851 - [*] epoch: 957, train_loss: 0.1619, validation_rmse: 3.4276, time: 3.5
+INFO 2022-06-05 01:42:44,556 - [*] epoch: 958, train_loss: 0.0497, validation_rmse: 1.1473, time: 1.7
+INFO 2022-06-05 01:42:46,210 - [*] epoch: 959, train_loss: 0.0123, validation_rmse: 2.0117, time: 1.7
+INFO 2022-06-05 01:42:47,985 - [*] epoch: 960, train_loss: 0.0305, validation_rmse: 3.2565, time: 1.8
+INFO 2022-06-05 01:42:49,517 - [*] epoch: 961, train_loss: 0.0481, validation_rmse: 1.1209, time: 1.5
+INFO 2022-06-05 01:42:51,361 - [*] epoch: 962, train_loss: 0.0156, validation_rmse: 1.5943, time: 1.8
+INFO 2022-06-05 01:42:54,202 - [*] epoch: 963, train_loss: 0.0572, validation_rmse: 2.1690, time: 2.8
+INFO 2022-06-05 01:42:57,078 - [*] epoch: 964, train_loss: 0.0783, validation_rmse: 2.1337, time: 2.9
+INFO 2022-06-05 01:42:59,163 - [*] epoch: 965, train_loss: 0.0344, validation_rmse: 0.7054, time: 2.1
+INFO 2022-06-05 01:43:01,462 - [*] epoch: 966, train_loss: 0.0187, validation_rmse: 1.0966, time: 2.3
+INFO 2022-06-05 01:43:03,726 - [*] epoch: 967, train_loss: 0.0228, validation_rmse: 1.5045, time: 2.3
+INFO 2022-06-05 01:43:05,486 - [*] epoch: 968, train_loss: 0.0181, validation_rmse: 0.6981, time: 1.8
+INFO 2022-06-05 01:43:07,513 - [*] epoch: 969, train_loss: 0.0171, validation_rmse: 1.2719, time: 2.0
+INFO 2022-06-05 01:43:09,025 - [*] epoch: 970, train_loss: 0.0168, validation_rmse: 1.8256, time: 1.5
+INFO 2022-06-05 01:43:11,261 - [*] epoch: 971, train_loss: 0.0267, validation_rmse: 0.5809, time: 2.2
+INFO 2022-06-05 01:43:11,264 - [*] model saved.
+INFO 2022-06-05 01:43:14,405 - [*] epoch: 972, train_loss: 0.0458, validation_rmse: 0.6264, time: 3.1
+INFO 2022-06-05 01:43:16,203 - [*] epoch: 973, train_loss: 0.0106, validation_rmse: 0.5890, time: 1.8
+INFO 2022-06-05 01:43:18,189 - [*] epoch: 974, train_loss: 0.0115, validation_rmse: 0.6742, time: 2.0
+INFO 2022-06-05 01:43:20,731 - [*] epoch: 975, train_loss: 0.0258, validation_rmse: 0.6209, time: 2.5
+INFO 2022-06-05 01:43:23,522 - [*] epoch: 976, train_loss: 0.0223, validation_rmse: 0.6503, time: 2.8
+INFO 2022-06-05 01:43:25,294 - [*] epoch: 977, train_loss: 0.0105, validation_rmse: 0.7977, time: 1.8
+INFO 2022-06-05 01:43:27,319 - [*] epoch: 978, train_loss: 0.0181, validation_rmse: 0.8292, time: 2.0
+INFO 2022-06-05 01:43:29,125 - [*] epoch: 979, train_loss: 0.0086, validation_rmse: 0.9357, time: 1.8
+INFO 2022-06-05 01:43:30,643 - [*] epoch: 980, train_loss: 0.0065, validation_rmse: 0.6124, time: 1.5
+INFO 2022-06-05 01:43:33,582 - [*] epoch: 981, train_loss: 0.0336, validation_rmse: 0.6573, time: 2.9
+INFO 2022-06-05 01:43:35,340 - [*] epoch: 982, train_loss: 0.0079, validation_rmse: 0.8197, time: 1.8
+INFO 2022-06-05 01:43:38,693 - [*] epoch: 983, train_loss: 0.1430, validation_rmse: 2.2033, time: 3.4
+INFO 2022-06-05 01:43:42,301 - [*] epoch: 984, train_loss: 0.2935, validation_rmse: 1.0084, time: 3.6
+INFO 2022-06-05 01:43:44,233 - [*] epoch: 985, train_loss: 0.0109, validation_rmse: 2.3864, time: 1.9
+INFO 2022-06-05 01:43:47,078 - [*] epoch: 986, train_loss: 0.0466, validation_rmse: 3.1556, time: 2.8
+INFO 2022-06-05 01:43:49,007 - [*] epoch: 987, train_loss: 0.0709, validation_rmse: 2.7704, time: 1.9
+INFO 2022-06-05 01:43:52,244 - [*] epoch: 988, train_loss: 0.0787, validation_rmse: 0.6151, time: 3.2
+INFO 2022-06-05 01:43:55,367 - [*] epoch: 989, train_loss: 0.0768, validation_rmse: 1.9143, time: 3.1
+INFO 2022-06-05 01:43:57,788 - [*] epoch: 990, train_loss: 0.0412, validation_rmse: 2.3475, time: 2.4
+INFO 2022-06-05 01:43:59,588 - [*] epoch: 991, train_loss: 0.0309, validation_rmse: 1.0290, time: 1.8
+INFO 2022-06-05 01:44:02,118 - [*] epoch: 992, train_loss: 0.0443, validation_rmse: 0.5317, time: 2.5
+INFO 2022-06-05 01:44:02,120 - [*] model saved.
+INFO 2022-06-05 01:44:05,748 - [*] epoch: 993, train_loss: 0.2315, validation_rmse: 0.5613, time: 3.6
+INFO 2022-06-05 01:44:07,489 - [*] epoch: 994, train_loss: 0.0058, validation_rmse: 0.5091, time: 1.7
+INFO 2022-06-05 01:44:07,490 - [*] model saved.
+INFO 2022-06-05 01:44:10,441 - [*] epoch: 995, train_loss: 0.0364, validation_rmse: 0.5061, time: 3.0
+INFO 2022-06-05 01:44:10,443 - [*] model saved.
+INFO 2022-06-05 01:44:12,067 - [*] epoch: 996, train_loss: 0.0076, validation_rmse: 1.0691, time: 1.6
+INFO 2022-06-05 01:44:13,508 - [*] epoch: 997, train_loss: 0.0054, validation_rmse: 0.7586, time: 1.4
+INFO 2022-06-05 01:44:15,151 - [*] epoch: 998, train_loss: 0.0067, validation_rmse: 0.5698, time: 1.6
+INFO 2022-06-05 01:44:17,632 - [*] epoch: 999, train_loss: 0.0257, validation_rmse: 0.9634, time: 2.5

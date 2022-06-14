@@ -1,1 +1,0 @@
-# reads graph data from json along with scalar field data and timestamps and initializes torch objects
