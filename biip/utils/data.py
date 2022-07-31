@@ -11,9 +11,9 @@ def prepare_dataset(data_path, prefix):
     with open(graph_data_path) as file:
         graph_data = json.load(file)
     # read scalar field and timestamps data
-    f_interior = np.load(os.path.join(data_path, f"{prefix}_f_interior.npy"))
-    f_boundary = np.load(os.path.join(data_path, f"{prefix}_f_boundary.npy"))
-    timestamps = np.load(os.path.join(data_path, f"{prefix}_t.npy"))
+    f_interior = np.load(os.path.join(data_path, f"{prefix}/f_interior.npy"))
+    f_boundary = np.load(os.path.join(data_path, f"{prefix}/f_boundary.npy"))
+    timestamps = np.load(os.path.join(data_path, f"{prefix}/t.npy"))
 
     # constructing the dataset
     regular_edge_index = torch.tensor(
