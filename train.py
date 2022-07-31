@@ -5,8 +5,8 @@ from biip.utils.data import prepare_dataset
 from biip.utils.visualization import plot_true_pred_cylinder
 from biip.utils.helpers import get_logger
 
-# paths
 project_name = "experiment_0"
+# paths
 data_path = os.path.join("data", project_name)
 artifacts_path = os.path.join("artifacts", project_name)
 
