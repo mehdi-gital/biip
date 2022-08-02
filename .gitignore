@@ -1,6 +1,7 @@
 # Data
 
 # Artifacts
+artifacts/
 
 # Environments
 .env
