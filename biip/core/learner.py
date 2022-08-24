@@ -45,7 +45,7 @@ class Learner:
 
     def fit(self, dataset, epochs, batch_size, batch_time):
         # training loop
-        for epoch in range(0, epochs):  # model_hyperparameters['epoch']):
+        for epoch in range(0, epochs):
             start_time = time.time()
             # get batch data
             batch_f0, batch_t, batch_f, batch_f_boundary, batches = get_batch(

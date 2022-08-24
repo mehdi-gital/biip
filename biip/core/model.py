@@ -178,5 +178,10 @@ class NeuralBIIP(nn.Module):
             )
         return f_t_hat
 
+    def get_vector_field(self, t, timestamps, f0_interior, regular_edge_index, f_boundary, half_edge_index):
+        initial_state = (f0_interior, regular_edge_index, f_boundary, half_edge_index, timestamps)
+        df_dt = self.diffop(t, initial_state)[0]
+        return df_dt
+
     def __repr__(self):
         return self.__class__.__name__
